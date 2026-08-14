@@ -1,0 +1,134 @@
+geoid,mean_rank,best_rank,worst_rank,rank_spread,n_scenarios_top10,n_scenarios_top15,county_name
+51059,1.4,1,3,2,5,5,Fairfax County
+51153,3.4,2,4,2,5,5,Prince William County
+51179,4.2,1,8,7,5,5,Stafford County
+51013,4.4,2,9,7,5,5,Arlington County
+51810,6.2,2,14,12,4,5,Virginia Beach city
+51041,7.8,5,10,5,5,5,Chesterfield County
+51107,9.0,2,20,18,3,4,Loudoun County
+51087,10.0,6,16,10,3,4,Henrico County
+51177,10.2,7,15,8,3,5,Spotsylvania County
+51550,11.0,5,17,12,2,4,Chesapeake city
+51085,13.6,12,18,6,0,4,Hanover County
+51199,14.2,9,20,11,1,4,York County
+51069,14.4,11,20,9,0,4,Frederick County
+51075,15.6,6,24,18,1,2,Goochland County
+51161,16.0,7,23,16,1,3,Roanoke County
+51710,16.0,6,34,28,2,3,Norfolk city
+51003,18.0,15,23,8,0,1,Albemarle County
+51800,18.4,15,24,9,0,1,Suffolk city
+51095,21.2,18,28,10,0,0,James City County
+51061,21.2,16,29,13,0,0,Fauquier County
+51121,21.8,10,30,20,1,1,Montgomery County
+51149,23.2,10,36,26,1,1,Prince George County
+51510,25.2,8,39,31,1,1,Alexandria city
+51127,28.6,8,63,55,1,1,New Kent County
+51760,30.2,24,35,11,0,0,Richmond city
+51165,30.6,23,43,20,0,0,Rockingham County
+51191,31.2,16,49,33,0,0,Washington County
+51740,31.6,22,46,24,0,0,Portsmouth city
+51015,32.6,25,42,17,0,0,Augusta County
+51600,33.0,11,45,34,0,1,Fairfax city
+51700,33.2,27,38,11,0,0,Newport News city
+51187,33.4,31,35,4,0,0,Warren County
+51610,35.6,6,56,50,1,1,Falls Church city
+51109,37.4,21,47,26,0,0,Louisa County
+51019,39.0,27,45,18,0,0,Bedford County
+51770,39.0,17,58,41,0,0,Roanoke city
+51145,39.2,25,50,25,0,0,Powhatan County
+51023,39.4,30,51,21,0,0,Botetourt County
+51650,40.4,34,46,12,0,0,Hampton city
+51171,40.8,30,51,21,0,0,Shenandoah County
+51683,40.8,25,58,33,0,0,Manassas city
+51155,42.0,21,61,40,0,0,Pulaski County
+51033,44.0,28,70,42,0,0,Caroline County
+51043,44.6,26,57,31,0,0,Clarke County
+51093,45.0,26,61,35,0,0,Isle of Wight County
+51197,45.8,25,69,44,0,0,Wythe County
+51053,47.2,34,59,25,0,0,Dinwiddie County
+51540,49.2,33,68,35,0,0,Charlottesville city
+51775,50.8,31,64,33,0,0,Salem city
+51173,53.4,20,89,69,0,0,Smyth County
+51035,53.6,36,71,35,0,0,Carroll County
+51630,54.4,31,78,47,0,0,Fredericksburg city
+51047,55.0,41,72,31,0,0,Culpeper County
+51680,56.2,40,67,27,0,0,Lynchburg city
+51073,57.2,44,74,30,0,0,Gloucester County
+51840,57.6,52,62,10,0,0,Winchester city
+51678,58.4,24,81,57,0,0,Lexington city
+51163,58.8,41,67,26,0,0,Rockbridge County
+51065,58.8,47,68,21,0,0,Fluvanna County
+51067,60.4,48,75,27,0,0,Franklin County
+51099,61.8,40,91,51,0,0,King George County
+51570,62.6,52,81,29,0,0,Colonial Heights city
+51137,62.6,49,80,31,0,0,Orange County
+51735,63.0,35,88,53,0,0,Poquoson city
+51830,67.0,54,84,30,0,0,Williamsburg city
+51031,67.8,54,76,22,0,0,Campbell County
+51021,71.0,38,102,64,0,0,Bland County
+51117,71.2,53,83,30,0,0,Mecklenburg County
+51730,71.4,53,85,32,0,0,Petersburg city
+51790,72.0,55,92,37,0,0,Staunton city
+51079,72.8,48,95,47,0,0,Greene County
+51660,73.6,64,88,24,0,0,Harrisonburg city
+51520,74.2,69,84,15,0,0,Bristol city
+51101,74.6,39,107,68,0,0,King William County
+51009,74.8,72,80,8,0,0,Amherst County
+51063,75.4,53,87,34,0,0,Floyd County
+51005,75.4,57,95,38,0,0,Alleghany County
+51185,76.2,41,114,73,0,0,Tazewell County
+51071,76.8,60,90,30,0,0,Giles County
+51750,78.6,39,107,68,0,0,Radford city
+51820,80.6,66,103,37,0,0,Waynesboro city
+51113,81.6,57,98,41,0,0,Madison County
+51685,81.6,59,101,42,0,0,Manassas Park city
+51081,84.4,50,103,53,0,0,Greensville County
+51025,84.4,62,110,48,0,0,Brunswick County
+51157,84.8,57,105,48,0,0,Rappahannock County
+51167,85.0,49,119,70,0,0,Russell County
+51139,85.6,84,90,6,0,0,Page County
+51143,89.6,76,105,29,0,0,Pittsylvania County
+51089,90.2,83,98,15,0,0,Henry County
+51175,92.2,89,97,8,0,0,Southampton County
+51670,92.4,77,104,27,0,0,Hopewell city
+51135,94.2,84,102,18,0,0,Nottoway County
+51077,94.4,51,120,69,0,0,Grayson County
+51640,95.6,89,104,15,0,0,Galax city
+51195,98.0,75,124,49,0,0,Wise County
+51169,98.6,83,111,28,0,0,Scott County
+51183,98.8,66,118,52,0,0,Sussex County
+51131,99.6,92,114,22,0,0,Northampton County
+51125,99.8,81,119,38,0,0,Nelson County
+51590,100.8,89,112,23,0,0,Danville city
+51011,100.8,79,112,33,0,0,Appomattox County
+51007,101.6,86,109,23,0,0,Amelia County
+51193,102.0,78,115,37,0,0,Westmoreland County
+51119,102.2,82,123,41,0,0,Middlesex County
+51690,102.6,81,119,38,0,0,Martinsville city
+51103,102.8,77,121,44,0,0,Lancaster County
+51045,105.2,68,122,54,0,0,Craig County
+51147,105.8,82,121,39,0,0,Prince Edward County
+51530,105.8,70,117,47,0,0,Buena Vista city
+51141,106.0,99,112,13,0,0,Patrick County
+51001,106.2,97,118,21,0,0,Accomack County
+51083,106.6,96,117,21,0,0,Halifax County
+51027,107.6,59,131,72,0,0,Buchanan County
+51111,108.0,86,121,35,0,0,Lunenburg County
+51181,110.2,101,118,17,0,0,Surry County
+51580,113.4,104,127,23,0,0,Covington city
+51049,115.6,111,119,8,0,0,Cumberland County
+51595,115.8,72,133,61,0,0,Emporia city
+51029,116.2,111,122,11,0,0,Buckingham County
+51051,117.6,83,131,48,0,0,Dickenson County
+51115,118.0,90,126,36,0,0,Mathews County
+51159,119.0,103,125,22,0,0,Richmond County
+51620,119.4,99,131,32,0,0,Franklin city
+51133,119.8,98,130,32,0,0,Northumberland County
+51097,124.4,114,131,17,0,0,King and Queen County
+51036,124.6,109,132,23,0,0,Charles City County
+51057,125.6,121,130,9,0,0,Essex County
+51037,125.8,118,129,11,0,0,Charlotte County
+51105,126.2,120,132,12,0,0,Lee County
+51091,127.2,116,133,17,0,0,Highland County
+51017,128.2,124,131,7,0,0,Bath County
+51720,131.0,125,133,8,0,0,Norton city

@@ -1,0 +1,156 @@
+# ============================================================
+# Buc-ee's Virginia Expansion Analysis - central configuration
+# ============================================================
+# All pipeline scripts read this file via scripts/utils/config.py.
+# Data-source variable codes listed here are VALIDATED against the
+# source's own metadata at acquisition time (never assumed).
+
+project:
+  name: bucees-virginia-expansion-analysis
+  state_name: Virginia
+  state_fips: "51"
+
+paths:
+  data_raw: data/raw
+  data_interim: data/interim
+  data_processed: data/processed
+  database: database/bucees_va.sqlite
+  outputs: outputs
+
+acs:
+  # ACS 5-year estimates. Two non-overlapping periods to measure growth.
+  # NOTE (2026-08-03): api.census.gov data queries now REQUIRE an API key
+  # (verified: HTTP 302 -> "Missing Key"). Pipeline therefore uses the
+  # official bulk summary files on www2.census.gov, which need no key.
+  current_year: 2023          # 2019-2023 5-year period
+  prior_year: 2018            # 2014-2018 5-year period
+  # 2023: table-based summary file, one pipe-delimited .dat per table.
+  current_base_url: https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData
+  # 2018: legacy sequence-file format (geography file + sequence zips + lookup).
+  prior_base_url: https://www2.census.gov/programs-surveys/acs/summary_file/2018/data/5_year_seq_by_state/Virginia/All_Geographies_Not_Tracts_Block_Groups
+  prior_lookup_url: https://www2.census.gov/programs-surveys/acs/summary_file/2018/documentation/user_tools/ACS_5yr_Seq_Table_Number_Lookup.txt
+  # Variables (verified against api.census.gov/data/2023/acs/acs5/variables.json
+  # on 2026-08-03; all present):
+  variables:
+    B01003_001E: total_population
+    B19013_001E: median_hh_income
+    B19301_001E: per_capita_income
+    B01002_001E: median_age
+    B23025_002E: labor_force
+    B23025_004E: employed
+    B25077_001E: median_home_value
+    B11001_001E: households
+    B08303_001E: commuters_total
+
+cpi:
+  # BLS CPI-U, US city average, all items, not seasonally adjusted
+  # (series CUUR0000SA0). Annual averages are period M13. Used to express
+  # 2014-2018 ACS money values in 2023 dollars so income growth can be
+  # reported in real terms alongside nominal.
+  all_items_url: https://download.bls.gov/pub/time.series/cu/cu.data.1.AllItems
+  series_id: CUUR0000SA0
+
+cbp:
+  # County Business Patterns, county level, from the official bulk county
+  # file (no API key needed). CBP 2023 is classified on NAICS **2017**
+  # (verified 2026-08-03: the 2023 CBP API exposes NAICS2017; NAICS2022 absent).
+  year: 2023
+  county_file_url: https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23co.zip
+  # NAICS 2017 codes of interest:
+  # 00/total = all sectors, 447 = gasoline stations, 722 = food services
+  # & drinking places, 44-45 = retail trade
+  naics_codes: ["00", "447", "44-45", "722"]
+
+tiger:
+  # TIGER/Line county boundaries (cartographic boundary files, 500k).
+  year: 2023
+  counties_url: https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_county_500k.zip
+  primary_roads_url: https://www2.census.gov/geo/tiger/TIGER2023/PRIMARYROADS/tl_2023_us_primaryroads.zip
+  # VA incorporated places - used to assign VDOT 'Town of X' segments to
+  # their containing county (towns are county subdivisions in Virginia).
+  va_places_url: https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_51_place_500k.zip
+
+vdot:
+  # VDOT Traffic Volume 2024 ArcGIS feature service (verified 2026-08-03:
+  # 123,766 polyline segments; fields include ADT, AAWDT, truck percents,
+  # ROUTE_COMMON_NAME, FROM/TO_JURISDICTION, Shape__Length in EPSG:3857).
+  # Attributes are downloaded WITHOUT geometry (county assignment uses
+  # FROM_JURISDICTION); interstate accessibility uses TIGER primary roads.
+  feature_service_url: https://services.arcgis.com/p5v98VHDX9Atv3l7/arcgis/rest/services/VDOT_Traffic_Volume_2024/FeatureServer/0
+  publication_year: 2024
+  page_size: 2000
+
+bucees:
+  # Existing + announced locations compiled from public sources
+  # (bucees.com location list, press releases, local news). Every row
+  # in the compiled file carries a source URL and access date.
+  notes: Compiled manually with per-row citations during Stage 2.
+
+analysis:
+  crs_analysis: "EPSG:26918"   # NAD83 / UTM 18N - appropriate for Virginia distances
+  crs_display: "EPSG:4326"
+  # Radius (miles) used for overlap risk vs existing/announced Buc-ee's
+  overlap_radius_miles: 60
+  # A Buc-ee's draws from a wide highway corridor; accessibility measured
+  # as distance from county centroid to nearest interstate.
+  interstate_route_prefix: "I-"
+
+scoring:
+  # Component scores, each normalized 0-100 (higher = more attractive).
+  components:
+    - market_demand
+    - growth
+    - purchasing_power
+    - highway_opportunity
+    - accessibility
+    - commercial_activity
+    - competition        # higher = LESS existing fuel/food competition pressure
+    - overlap_risk       # higher = LESS cannibalization risk vs other Buc-ee's
+
+  # Scenario weights (must each sum to 1.0; validated at runtime).
+  scenarios:
+    balanced:
+      market_demand: 0.20
+      growth: 0.10
+      purchasing_power: 0.10
+      highway_opportunity: 0.25
+      accessibility: 0.10
+      commercial_activity: 0.10
+      competition: 0.075
+      overlap_risk: 0.075
+    highway:
+      market_demand: 0.10
+      growth: 0.05
+      purchasing_power: 0.05
+      highway_opportunity: 0.45
+      accessibility: 0.15
+      commercial_activity: 0.05
+      competition: 0.075
+      overlap_risk: 0.075
+    growth:
+      market_demand: 0.15
+      growth: 0.35
+      purchasing_power: 0.10
+      highway_opportunity: 0.15
+      accessibility: 0.10
+      commercial_activity: 0.05
+      competition: 0.05
+      overlap_risk: 0.05
+    affluent:
+      market_demand: 0.15
+      growth: 0.05
+      purchasing_power: 0.35
+      highway_opportunity: 0.15
+      accessibility: 0.10
+      commercial_activity: 0.10
+      competition: 0.05
+      overlap_risk: 0.05
+    underserved:
+      market_demand: 0.15
+      growth: 0.05
+      purchasing_power: 0.05
+      highway_opportunity: 0.20
+      accessibility: 0.10
+      commercial_activity: 0.05
+      competition: 0.20
+      overlap_risk: 0.20

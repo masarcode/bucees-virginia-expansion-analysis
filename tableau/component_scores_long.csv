@@ -1,0 +1,1065 @@
+geoid,county_name,component,component_score,recommendation_status,corridor
+51001,Accomack County,market_demand,44.550431754433404,Ineligible: no interstate access,Not in a screened corridor
+51001,Accomack County,growth,45.759526991698536,Ineligible: no interstate access,Not in a screened corridor
+51001,Accomack County,purchasing_power,13.81342215167833,Ineligible: no interstate access,Not in a screened corridor
+51001,Accomack County,highway_opportunity,20.955422753201436,Ineligible: no interstate access,Not in a screened corridor
+51001,Accomack County,accessibility,0.0,Ineligible: no interstate access,Not in a screened corridor
+51001,Accomack County,commercial_activity,39.247931505197094,Ineligible: no interstate access,Not in a screened corridor
+51001,Accomack County,competition,59.151763387945344,Ineligible: no interstate access,Not in a screened corridor
+51001,Accomack County,overlap_risk,64.15789606646092,Ineligible: no interstate access,Not in a screened corridor
+51003,Albemarle County,market_demand,63.58105998402557,Priority candidate,I-64 Charlottesville
+51003,Albemarle County,growth,66.51751024930815,Priority candidate,I-64 Charlottesville
+51003,Albemarle County,purchasing_power,53.39349536730377,Priority candidate,I-64 Charlottesville
+51003,Albemarle County,highway_opportunity,40.895289990571634,Priority candidate,I-64 Charlottesville
+51003,Albemarle County,accessibility,99.93639199011515,Priority candidate,I-64 Charlottesville
+51003,Albemarle County,commercial_activity,49.906317739183564,Priority candidate,I-64 Charlottesville
+51003,Albemarle County,competition,87.19956663118789,Priority candidate,I-64 Charlottesville
+51003,Albemarle County,overlap_risk,25.26023651228214,Priority candidate,I-64 Charlottesville
+51005,Alleghany County,market_demand,31.77909942307814,Watchlist,Not in a screened corridor
+51005,Alleghany County,growth,25.362704562803398,Watchlist,Not in a screened corridor
+51005,Alleghany County,purchasing_power,11.02819810324742,Watchlist,Not in a screened corridor
+51005,Alleghany County,highway_opportunity,22.903998803901096,Watchlist,Not in a screened corridor
+51005,Alleghany County,accessibility,99.40499313299628,Watchlist,Not in a screened corridor
+51005,Alleghany County,commercial_activity,21.38692903374509,Watchlist,Not in a screened corridor
+51005,Alleghany County,competition,71.76346745087555,Watchlist,Not in a screened corridor
+51005,Alleghany County,overlap_risk,58.89627329021238,Watchlist,Not in a screened corridor
+51007,Amelia County,market_demand,30.082026222462044,Ineligible: no interstate access,Not in a screened corridor
+51007,Amelia County,growth,47.75392882630316,Ineligible: no interstate access,Not in a screened corridor
+51007,Amelia County,purchasing_power,18.475991123452253,Ineligible: no interstate access,Not in a screened corridor
+51007,Amelia County,highway_opportunity,16.406230990875663,Ineligible: no interstate access,Not in a screened corridor
+51007,Amelia County,accessibility,56.21151543300013,Ineligible: no interstate access,Not in a screened corridor
+51007,Amelia County,commercial_activity,15.268351858354809,Ineligible: no interstate access,Not in a screened corridor
+51007,Amelia County,competition,64.8166191975216,Ineligible: no interstate access,Not in a screened corridor
+51007,Amelia County,overlap_risk,45.62035698285557,Ineligible: no interstate access,Not in a screened corridor
+51009,Amherst County,market_demand,44.06212530166036,Ineligible: no interstate access,Not in a screened corridor
+51009,Amherst County,growth,33.909748771956814,Ineligible: no interstate access,Not in a screened corridor
+51009,Amherst County,purchasing_power,20.83564814654566,Ineligible: no interstate access,Not in a screened corridor
+51009,Amherst County,highway_opportunity,19.96837063983957,Ineligible: no interstate access,Not in a screened corridor
+51009,Amherst County,accessibility,71.92195605055358,Ineligible: no interstate access,Not in a screened corridor
+51009,Amherst County,commercial_activity,28.26076950742601,Ineligible: no interstate access,Not in a screened corridor
+51009,Amherst County,competition,76.06924751739153,Ineligible: no interstate access,Not in a screened corridor
+51009,Amherst County,overlap_risk,44.162019023822495,Ineligible: no interstate access,Not in a screened corridor
+51011,Appomattox County,market_demand,33.742062941135984,Ineligible: no interstate access,Not in a screened corridor
+51011,Appomattox County,growth,53.41974596826477,Ineligible: no interstate access,Not in a screened corridor
+51011,Appomattox County,purchasing_power,16.3855758811265,Ineligible: no interstate access,Not in a screened corridor
+51011,Appomattox County,highway_opportunity,15.427779938267642,Ineligible: no interstate access,Not in a screened corridor
+51011,Appomattox County,accessibility,34.00827882364204,Ineligible: no interstate access,Not in a screened corridor
+51011,Appomattox County,commercial_activity,20.645127994559257,Ineligible: no interstate access,Not in a screened corridor
+51011,Appomattox County,competition,68.5607444390323,Ineligible: no interstate access,Not in a screened corridor
+51011,Appomattox County,overlap_risk,56.66578244170868,Ineligible: no interstate access,Not in a screened corridor
+51013,Arlington County,market_demand,75.72237277697069,Feasibility constrained,I-95 / I-66 Northern Virginia
+51013,Arlington County,growth,40.92698716935119,Feasibility constrained,I-95 / I-66 Northern Virginia
+51013,Arlington County,purchasing_power,93.68422951220057,Feasibility constrained,I-95 / I-66 Northern Virginia
+51013,Arlington County,highway_opportunity,72.9418338851762,Feasibility constrained,I-95 / I-66 Northern Virginia
+51013,Arlington County,accessibility,98.68781687068825,Feasibility constrained,I-95 / I-66 Northern Virginia
+51013,Arlington County,commercial_activity,66.94098702102755,Feasibility constrained,I-95 / I-66 Northern Virginia
+51013,Arlington County,competition,93.22179422386249,Feasibility constrained,I-95 / I-66 Northern Virginia
+51013,Arlington County,overlap_risk,30.88814470287001,Feasibility constrained,I-95 / I-66 Northern Virginia
+51015,Augusta County,market_demand,58.72781434558373,Overlap constrained,I-81 Harrisonburg / Rockingham
+51015,Augusta County,growth,53.724313501270274,Overlap constrained,I-81 Harrisonburg / Rockingham
+51015,Augusta County,purchasing_power,28.171671211029125,Overlap constrained,I-81 Harrisonburg / Rockingham
+51015,Augusta County,highway_opportunity,44.70808102456412,Overlap constrained,I-81 Harrisonburg / Rockingham
+51015,Augusta County,accessibility,91.40174156487262,Overlap constrained,I-81 Harrisonburg / Rockingham
+51015,Augusta County,commercial_activity,36.22761813503713,Overlap constrained,I-81 Harrisonburg / Rockingham
+51015,Augusta County,competition,83.08691381536336,Overlap constrained,I-81 Harrisonburg / Rockingham
+51015,Augusta County,overlap_risk,14.245573155180576,Overlap constrained,I-81 Harrisonburg / Rockingham
+51017,Bath County,market_demand,11.61642669336928,Ineligible: no interstate access,Not in a screened corridor
+51017,Bath County,growth,15.148531348343404,Ineligible: no interstate access,Not in a screened corridor
+51017,Bath County,purchasing_power,17.955893089875165,Ineligible: no interstate access,Not in a screened corridor
+51017,Bath County,highway_opportunity,6.016245964695176,Ineligible: no interstate access,Not in a screened corridor
+51017,Bath County,accessibility,77.62804170215354,Ineligible: no interstate access,Not in a screened corridor
+51017,Bath County,commercial_activity,15.719648152643742,Ineligible: no interstate access,Not in a screened corridor
+51017,Bath County,competition,65.84404559786563,Ineligible: no interstate access,Not in a screened corridor
+51017,Bath County,overlap_risk,40.59735678182012,Ineligible: no interstate access,Not in a screened corridor
+51019,Bedford County,market_demand,58.457820726007995,Ineligible: no interstate access,I-81 Roanoke / Salem
+51019,Bedford County,growth,48.490334677462165,Ineligible: no interstate access,I-81 Roanoke / Salem
+51019,Bedford County,purchasing_power,30.091990337493016,Ineligible: no interstate access,I-81 Roanoke / Salem
+51019,Bedford County,highway_opportunity,23.07287448480137,Ineligible: no interstate access,I-81 Roanoke / Salem
+51019,Bedford County,accessibility,72.55268627397933,Ineligible: no interstate access,I-81 Roanoke / Salem
+51019,Bedford County,commercial_activity,42.21568571596071,Ineligible: no interstate access,I-81 Roanoke / Salem
+51019,Bedford County,competition,85.3771566941627,Ineligible: no interstate access,I-81 Roanoke / Salem
+51019,Bedford County,overlap_risk,65.68262325435427,Ineligible: no interstate access,I-81 Roanoke / Salem
+51021,Bland County,market_demand,17.343165960466543,Watchlist,Not in a screened corridor
+51021,Bland County,growth,21.18985203760674,Watchlist,Not in a screened corridor
+51021,Bland County,purchasing_power,12.820703270526666,Watchlist,Not in a screened corridor
+51021,Bland County,highway_opportunity,27.05002360862833,Watchlist,Not in a screened corridor
+51021,Bland County,accessibility,99.42353637395554,Watchlist,Not in a screened corridor
+51021,Bland County,commercial_activity,0.0,Watchlist,Not in a screened corridor
+51021,Bland County,competition,69.76868995867547,Watchlist,Not in a screened corridor
+51021,Bland County,overlap_risk,99.99999999999999,Watchlist,Not in a screened corridor
+51023,Botetourt County,market_demand,45.01625682577564,Secondary candidate,I-81 Roanoke / Salem
+51023,Botetourt County,growth,41.91095441966279,Secondary candidate,I-81 Roanoke / Salem
+51023,Botetourt County,purchasing_power,30.936968766799975,Secondary candidate,I-81 Roanoke / Salem
+51023,Botetourt County,highway_opportunity,34.47296952608035,Secondary candidate,I-81 Roanoke / Salem
+51023,Botetourt County,accessibility,92.01246586283875,Secondary candidate,I-81 Roanoke / Salem
+51023,Botetourt County,commercial_activity,31.69466252153609,Secondary candidate,I-81 Roanoke / Salem
+51023,Botetourt County,competition,76.44255842558425,Secondary candidate,I-81 Roanoke / Salem
+51023,Botetourt County,overlap_risk,61.05110989980072,Secondary candidate,I-81 Roanoke / Salem
+51025,Brunswick County,market_demand,32.46712174984572,Watchlist,I-95 / I-85 Southside
+51025,Brunswick County,growth,18.277851694510186,Watchlist,I-95 / I-85 Southside
+51025,Brunswick County,purchasing_power,8.701189946273962,Watchlist,I-95 / I-85 Southside
+51025,Brunswick County,highway_opportunity,26.781882102844506,Watchlist,I-95 / I-85 Southside
+51025,Brunswick County,accessibility,90.71077858166973,Watchlist,I-95 / I-85 Southside
+51025,Brunswick County,commercial_activity,14.087802255681503,Watchlist,I-95 / I-85 Southside
+51025,Brunswick County,competition,67.45914208890008,Watchlist,I-95 / I-85 Southside
+51025,Brunswick County,overlap_risk,57.701847521509734,Watchlist,I-95 / I-85 Southside
+51027,Buchanan County,market_demand,33.48038748283638,Ineligible: no interstate access,Not in a screened corridor
+51027,Buchanan County,growth,0.0,Ineligible: no interstate access,Not in a screened corridor
+51027,Buchanan County,purchasing_power,1.2694313974569964,Ineligible: no interstate access,Not in a screened corridor
+51027,Buchanan County,highway_opportunity,14.839553123418176,Ineligible: no interstate access,Not in a screened corridor
+51027,Buchanan County,accessibility,42.70777910574273,Ineligible: no interstate access,Not in a screened corridor
+51027,Buchanan County,commercial_activity,18.924194080233335,Ineligible: no interstate access,Not in a screened corridor
+51027,Buchanan County,competition,81.08811334374109,Ineligible: no interstate access,Not in a screened corridor
+51027,Buchanan County,overlap_risk,99.99999999999999,Ineligible: no interstate access,Not in a screened corridor
+51029,Buckingham County,market_demand,32.95289246427076,Ineligible: no interstate access,Not in a screened corridor
+51029,Buckingham County,growth,35.26966928257748,Ineligible: no interstate access,Not in a screened corridor
+51029,Buckingham County,purchasing_power,11.193558524124251,Ineligible: no interstate access,Not in a screened corridor
+51029,Buckingham County,highway_opportunity,13.3299847048721,Ineligible: no interstate access,Not in a screened corridor
+51029,Buckingham County,accessibility,52.73606656902109,Ineligible: no interstate access,Not in a screened corridor
+51029,Buckingham County,commercial_activity,11.824615766824598,Ineligible: no interstate access,Not in a screened corridor
+51029,Buckingham County,competition,66.69622797682393,Ineligible: no interstate access,Not in a screened corridor
+51029,Buckingham County,overlap_risk,48.41214094143963,Ineligible: no interstate access,Not in a screened corridor
+51031,Campbell County,market_demand,53.09266706724895,Ineligible: no interstate access,Not in a screened corridor
+51031,Campbell County,growth,37.91274004483901,Ineligible: no interstate access,Not in a screened corridor
+51031,Campbell County,purchasing_power,16.789304502866614,Ineligible: no interstate access,Not in a screened corridor
+51031,Campbell County,highway_opportunity,25.192153840586833,Ineligible: no interstate access,Not in a screened corridor
+51031,Campbell County,accessibility,38.42558123498708,Ineligible: no interstate access,Not in a screened corridor
+51031,Campbell County,commercial_activity,37.94984420336897,Ineligible: no interstate access,Not in a screened corridor
+51031,Campbell County,competition,76.27411338556145,Ineligible: no interstate access,Not in a screened corridor
+51031,Campbell County,overlap_risk,66.2613272699669,Ineligible: no interstate access,Not in a screened corridor
+51033,Caroline County,market_demand,44.65608174062938,Overlap constrained,I-95 Fredericksburg / Stafford
+51033,Caroline County,growth,56.396665309912166,Overlap constrained,I-95 Fredericksburg / Stafford
+51033,Caroline County,purchasing_power,32.04173275191609,Overlap constrained,I-95 Fredericksburg / Stafford
+51033,Caroline County,highway_opportunity,50.13966563509349,Overlap constrained,I-95 Fredericksburg / Stafford
+51033,Caroline County,accessibility,87.01260993521383,Overlap constrained,I-95 Fredericksburg / Stafford
+51033,Caroline County,commercial_activity,23.625548760076335,Overlap constrained,I-95 Fredericksburg / Stafford
+51033,Caroline County,competition,61.304862454160194,Overlap constrained,I-95 Fredericksburg / Stafford
+51033,Caroline County,overlap_risk,22.80592952719159,Overlap constrained,I-95 Fredericksburg / Stafford
+51035,Carroll County,market_demand,42.544176492233845,Watchlist,Not in a screened corridor
+51035,Carroll County,growth,27.614549458310254,Watchlist,Not in a screened corridor
+51035,Carroll County,purchasing_power,9.053692971418913,Watchlist,Not in a screened corridor
+51035,Carroll County,highway_opportunity,35.21237577163966,Watchlist,Not in a screened corridor
+51035,Carroll County,accessibility,98.43398034444049,Watchlist,Not in a screened corridor
+51035,Carroll County,commercial_activity,23.6776043735971,Watchlist,Not in a screened corridor
+51035,Carroll County,competition,64.58204723689326,Watchlist,Not in a screened corridor
+51035,Carroll County,overlap_risk,76.50599683940628,Watchlist,Not in a screened corridor
+51036,Charles City County,market_demand,20.199627249717892,Overlap constrained,I-64 Richmond East / New Kent
+51036,Charles City County,growth,17.441143810163393,Overlap constrained,I-64 Richmond East / New Kent
+51036,Charles City County,purchasing_power,25.891455347113453,Overlap constrained,I-64 Richmond East / New Kent
+51036,Charles City County,highway_opportunity,8.470211091817978,Overlap constrained,I-64 Richmond East / New Kent
+51036,Charles City County,accessibility,84.6724564872109,Overlap constrained,I-64 Richmond East / New Kent
+51036,Charles City County,commercial_activity,6.923425541033533,Overlap constrained,I-64 Richmond East / New Kent
+51036,Charles City County,competition,64.89555289659985,Overlap constrained,I-64 Richmond East / New Kent
+51036,Charles City County,overlap_risk,8.383046021633234,Overlap constrained,I-64 Richmond East / New Kent
+51037,Charlotte County,market_demand,27.424130885146184,Ineligible: no interstate access,Not in a screened corridor
+51037,Charlotte County,growth,16.42209453632765,Ineligible: no interstate access,Not in a screened corridor
+51037,Charlotte County,purchasing_power,6.333637371854238,Ineligible: no interstate access,Not in a screened corridor
+51037,Charlotte County,highway_opportunity,14.09200964258328,Ineligible: no interstate access,Not in a screened corridor
+51037,Charlotte County,accessibility,43.101884005557174,Ineligible: no interstate access,Not in a screened corridor
+51037,Charlotte County,commercial_activity,16.869963302426566,Ineligible: no interstate access,Not in a screened corridor
+51037,Charlotte County,competition,63.18300653594771,Ineligible: no interstate access,Not in a screened corridor
+51037,Charlotte County,overlap_risk,62.125312834785966,Ineligible: no interstate access,Not in a screened corridor
+51041,Chesterfield County,market_demand,82.73059237133398,Priority candidate,I-95 Richmond South
+51041,Chesterfield County,growth,72.781137465282,Priority candidate,I-95 Richmond South
+51041,Chesterfield County,purchasing_power,43.93177876820201,Priority candidate,I-95 Richmond South
+51041,Chesterfield County,highway_opportunity,65.20507021469894,Priority candidate,I-95 Richmond South
+51041,Chesterfield County,accessibility,85.77545350827224,Priority candidate,I-95 Richmond South
+51041,Chesterfield County,commercial_activity,61.01707726216454,Priority candidate,I-95 Richmond South
+51041,Chesterfield County,competition,88.63122628562202,Priority candidate,I-95 Richmond South
+51041,Chesterfield County,overlap_risk,27.63164566266378,Priority candidate,I-95 Richmond South
+51043,Clarke County,market_demand,32.29579961453612,Ineligible: no interstate access,I-81 Winchester / Frederick
+51043,Clarke County,growth,61.639593101915494,Ineligible: no interstate access,I-81 Winchester / Frederick
+51043,Clarke County,purchasing_power,57.16964304535173,Ineligible: no interstate access,I-81 Winchester / Frederick
+51043,Clarke County,highway_opportunity,19.954743413382083,Ineligible: no interstate access,I-81 Winchester / Frederick
+51043,Clarke County,accessibility,85.78190775285687,Ineligible: no interstate access,I-81 Winchester / Frederick
+51043,Clarke County,commercial_activity,26.232599638928964,Ineligible: no interstate access,I-81 Winchester / Frederick
+51043,Clarke County,competition,78.18116423196105,Ineligible: no interstate access,I-81 Winchester / Frederick
+51043,Clarke County,overlap_risk,46.65165583830485,Ineligible: no interstate access,I-81 Winchester / Frederick
+51045,Craig County,market_demand,13.681445233913301,Ineligible: no interstate access,Not in a screened corridor
+51045,Craig County,growth,17.963490277962315,Ineligible: no interstate access,Not in a screened corridor
+51045,Craig County,purchasing_power,19.540276669330293,Ineligible: no interstate access,Not in a screened corridor
+51045,Craig County,highway_opportunity,3.9242335611329926,Ineligible: no interstate access,Not in a screened corridor
+51045,Craig County,accessibility,77.52846339006719,Ineligible: no interstate access,Not in a screened corridor
+51045,Craig County,commercial_activity,2.3158898302174395,Ineligible: no interstate access,Not in a screened corridor
+51045,Craig County,competition,100.00000000000001,Ineligible: no interstate access,Not in a screened corridor
+51045,Craig County,overlap_risk,77.15383645611348,Ineligible: no interstate access,Not in a screened corridor
+51047,Culpeper County,market_demand,52.57720801551643,Overlap constrained,I-66 Piedmont
+51047,Culpeper County,growth,62.33046090172266,Overlap constrained,I-66 Piedmont
+51047,Culpeper County,purchasing_power,37.93775457543351,Overlap constrained,I-66 Piedmont
+51047,Culpeper County,highway_opportunity,22.764248804239173,Overlap constrained,I-66 Piedmont
+51047,Culpeper County,accessibility,58.9114861959614,Overlap constrained,I-66 Piedmont
+51047,Culpeper County,commercial_activity,38.81305482505587,Overlap constrained,I-66 Piedmont
+51047,Culpeper County,competition,82.47235342805045,Overlap constrained,I-66 Piedmont
+51047,Culpeper County,overlap_risk,22.68308254190156,Overlap constrained,I-66 Piedmont
+51049,Cumberland County,market_demand,26.38709845657374,Ineligible: no interstate access,Not in a screened corridor
+51049,Cumberland County,growth,34.35220745156817,Ineligible: no interstate access,Not in a screened corridor
+51049,Cumberland County,purchasing_power,15.679473548240862,Ineligible: no interstate access,Not in a screened corridor
+51049,Cumberland County,highway_opportunity,9.598836752341674,Ineligible: no interstate access,Not in a screened corridor
+51049,Cumberland County,accessibility,58.03914951165977,Ineligible: no interstate access,Not in a screened corridor
+51049,Cumberland County,commercial_activity,13.129811390385365,Ineligible: no interstate access,Not in a screened corridor
+51049,Cumberland County,competition,66.28099880280485,Ineligible: no interstate access,Not in a screened corridor
+51049,Cumberland County,overlap_risk,56.97693469236374,Ineligible: no interstate access,Not in a screened corridor
+51051,Dickenson County,market_demand,28.87788335434951,Ineligible: no interstate access,Not in a screened corridor
+51051,Dickenson County,growth,16.85548240036923,Ineligible: no interstate access,Not in a screened corridor
+51051,Dickenson County,purchasing_power,1.9729513502295384,Ineligible: no interstate access,Not in a screened corridor
+51051,Dickenson County,highway_opportunity,9.940598125350876,Ineligible: no interstate access,Not in a screened corridor
+51051,Dickenson County,accessibility,44.524727415354434,Ineligible: no interstate access,Not in a screened corridor
+51051,Dickenson County,commercial_activity,11.299779215506225,Ineligible: no interstate access,Not in a screened corridor
+51051,Dickenson County,competition,69.64978448275862,Ineligible: no interstate access,Not in a screened corridor
+51051,Dickenson County,overlap_risk,88.28037489310373,Ineligible: no interstate access,Not in a screened corridor
+51053,Dinwiddie County,market_demand,42.41902867649223,Watchlist,I-95 Richmond South
+51053,Dinwiddie County,growth,40.841301209715965,Watchlist,I-95 Richmond South
+51053,Dinwiddie County,purchasing_power,30.235913856957772,Watchlist,I-95 Richmond South
+51053,Dinwiddie County,highway_opportunity,38.09711882112649,Watchlist,I-95 Richmond South
+51053,Dinwiddie County,accessibility,96.7487570405996,Watchlist,I-95 Richmond South
+51053,Dinwiddie County,commercial_activity,19.07666972222633,Watchlist,I-95 Richmond South
+51053,Dinwiddie County,competition,79.94160168073212,Watchlist,I-95 Richmond South
+51053,Dinwiddie County,overlap_risk,37.71199488831527,Watchlist,I-95 Richmond South
+51057,Essex County,market_demand,25.41323263938274,Ineligible: no interstate access,Not in a screened corridor
+51057,Essex County,growth,15.973026839088712,Ineligible: no interstate access,Not in a screened corridor
+51057,Essex County,purchasing_power,13.043562183086918,Ineligible: no interstate access,Not in a screened corridor
+51057,Essex County,highway_opportunity,15.623291330102939,Ineligible: no interstate access,Not in a screened corridor
+51057,Essex County,accessibility,56.39689206206757,Ineligible: no interstate access,Not in a screened corridor
+51057,Essex County,commercial_activity,31.25243256256053,Ineligible: no interstate access,Not in a screened corridor
+51057,Essex County,competition,64.58569093423866,Ineligible: no interstate access,Not in a screened corridor
+51057,Essex County,overlap_risk,25.514273629794094,Ineligible: no interstate access,Not in a screened corridor
+51059,Fairfax County,market_demand,100.0,Feasibility constrained,I-95 / I-66 Northern Virginia
+51059,Fairfax County,growth,36.4375154438541,Feasibility constrained,I-95 / I-66 Northern Virginia
+51059,Fairfax County,purchasing_power,85.75241817359502,Feasibility constrained,I-95 / I-66 Northern Virginia
+51059,Fairfax County,highway_opportunity,100.0,Feasibility constrained,I-95 / I-66 Northern Virginia
+51059,Fairfax County,accessibility,95.96643147205258,Feasibility constrained,I-95 / I-66 Northern Virginia
+51059,Fairfax County,commercial_activity,80.55741762018285,Feasibility constrained,I-95 / I-66 Northern Virginia
+51059,Fairfax County,competition,92.24798903251624,Feasibility constrained,I-95 / I-66 Northern Virginia
+51059,Fairfax County,overlap_risk,25.322168676211117,Feasibility constrained,I-95 / I-66 Northern Virginia
+51061,Fauquier County,market_demand,57.82018538861266,Overlap constrained,I-66 Piedmont
+51061,Fauquier County,growth,65.86349005751475,Overlap constrained,I-66 Piedmont
+51061,Fauquier County,purchasing_power,65.52018150168402,Overlap constrained,I-66 Piedmont
+51061,Fauquier County,highway_opportunity,41.43862883594986,Overlap constrained,I-66 Piedmont
+51061,Fauquier County,accessibility,88.2150495691133,Overlap constrained,I-66 Piedmont
+51061,Fauquier County,commercial_activity,45.42464664299638,Overlap constrained,I-66 Piedmont
+51061,Fauquier County,competition,80.95286400216406,Overlap constrained,I-66 Piedmont
+51061,Fauquier County,overlap_risk,24.179978099924487,Overlap constrained,I-66 Piedmont
+51063,Floyd County,market_demand,33.56133795997535,Ineligible: no interstate access,Not in a screened corridor
+51063,Floyd County,growth,33.35085570725687,Ineligible: no interstate access,Not in a screened corridor
+51063,Floyd County,purchasing_power,18.21013205666412,Ineligible: no interstate access,Not in a screened corridor
+51063,Floyd County,highway_opportunity,11.867293336749409,Ineligible: no interstate access,Not in a screened corridor
+51063,Floyd County,accessibility,79.59489730157449,Ineligible: no interstate access,Not in a screened corridor
+51063,Floyd County,commercial_activity,22.960477516113478,Ineligible: no interstate access,Not in a screened corridor
+51063,Floyd County,competition,84.91591688089117,Ineligible: no interstate access,Not in a screened corridor
+51063,Floyd County,overlap_risk,69.77726935802312,Ineligible: no interstate access,Not in a screened corridor
+51065,Fluvanna County,market_demand,42.003129024735564,Traffic data unavailable,I-64 Charlottesville
+51065,Fluvanna County,growth,57.68523977378874,Traffic data unavailable,I-64 Charlottesville
+51065,Fluvanna County,purchasing_power,37.80198527050549,Traffic data unavailable,I-64 Charlottesville
+51065,Fluvanna County,highway_opportunity,13.094106400549977,Traffic data unavailable,I-64 Charlottesville
+51065,Fluvanna County,accessibility,84.50329863305134,Traffic data unavailable,I-64 Charlottesville
+51065,Fluvanna County,commercial_activity,20.4149677193444,Traffic data unavailable,I-64 Charlottesville
+51065,Fluvanna County,competition,88.16482975555874,Traffic data unavailable,I-64 Charlottesville
+51065,Fluvanna County,overlap_risk,41.59554542702346,Traffic data unavailable,I-64 Charlottesville
+51067,Franklin County,market_demand,52.218209420721834,Ineligible: no interstate access,Not in a screened corridor
+51067,Franklin County,growth,29.063881091391735,Ineligible: no interstate access,Not in a screened corridor
+51067,Franklin County,purchasing_power,22.726327534591444,Ineligible: no interstate access,Not in a screened corridor
+51067,Franklin County,highway_opportunity,22.077925520125348,Ineligible: no interstate access,Not in a screened corridor
+51067,Franklin County,accessibility,73.02388064056755,Ineligible: no interstate access,Not in a screened corridor
+51067,Franklin County,commercial_activity,38.086115716865294,Ineligible: no interstate access,Not in a screened corridor
+51067,Franklin County,competition,76.08416123827892,Ineligible: no interstate access,Not in a screened corridor
+51067,Franklin County,overlap_risk,59.460248165684646,Ineligible: no interstate access,Not in a screened corridor
+51069,Frederick County,market_demand,61.295645223531366,Priority candidate,I-81 Winchester / Frederick
+51069,Frederick County,growth,75.50450324248288,Priority candidate,I-81 Winchester / Frederick
+51069,Frederick County,purchasing_power,41.21247677883401,Priority candidate,I-81 Winchester / Frederick
+51069,Frederick County,highway_opportunity,44.72001514417007,Priority candidate,I-81 Winchester / Frederick
+51069,Frederick County,accessibility,90.1876706275983,Priority candidate,I-81 Winchester / Frederick
+51069,Frederick County,commercial_activity,40.42399069430733,Priority candidate,I-81 Winchester / Frederick
+51069,Frederick County,competition,84.9151089925553,Priority candidate,I-81 Winchester / Frederick
+51069,Frederick County,overlap_risk,57.20731341700563,Priority candidate,I-81 Winchester / Frederick
+51071,Giles County,market_demand,34.183139981504695,Ineligible: no interstate access,I-81 New River Valley
+51071,Giles County,growth,31.306327305696016,Ineligible: no interstate access,I-81 New River Valley
+51071,Giles County,purchasing_power,17.84291479445967,Ineligible: no interstate access,I-81 New River Valley
+51071,Giles County,highway_opportunity,17.437465161364944,Ineligible: no interstate access,I-81 New River Valley
+51071,Giles County,accessibility,74.80818782936487,Ineligible: no interstate access,I-81 New River Valley
+51071,Giles County,commercial_activity,22.439405277550595,Ineligible: no interstate access,I-81 New River Valley
+51071,Giles County,competition,51.95615091310455,Ineligible: no interstate access,I-81 New River Valley
+51071,Giles County,overlap_risk,96.64194556896452,Ineligible: no interstate access,I-81 New River Valley
+51073,Gloucester County,market_demand,47.975315127576465,Overlap constrained,Not in a screened corridor
+51073,Gloucester County,growth,58.19081859992154,Overlap constrained,Not in a screened corridor
+51073,Gloucester County,purchasing_power,32.246090990062676,Overlap constrained,Not in a screened corridor
+51073,Gloucester County,highway_opportunity,20.903746248964254,Overlap constrained,Not in a screened corridor
+51073,Gloucester County,accessibility,83.27941143906412,Overlap constrained,Not in a screened corridor
+51073,Gloucester County,commercial_activity,36.9956842110301,Overlap constrained,Not in a screened corridor
+51073,Gloucester County,competition,77.26390163488664,Overlap constrained,Not in a screened corridor
+51073,Gloucester County,overlap_risk,21.216493136811135,Overlap constrained,Not in a screened corridor
+51075,Goochland County,market_demand,39.93195622582117,Priority candidate,I-64 Richmond West
+51075,Goochland County,growth,92.72919601374709,Priority candidate,I-64 Richmond West
+51075,Goochland County,purchasing_power,69.00503180874239,Priority candidate,I-64 Richmond West
+51075,Goochland County,highway_opportunity,44.55147974621739,Priority candidate,I-64 Richmond West
+51075,Goochland County,accessibility,93.90456142555813,Priority candidate,I-64 Richmond West
+51075,Goochland County,commercial_activity,32.167684591526935,Priority candidate,I-64 Richmond West
+51075,Goochland County,competition,76.1745337654056,Priority candidate,I-64 Richmond West
+51075,Goochland County,overlap_risk,43.731468607593015,Priority candidate,I-64 Richmond West
+51077,Grayson County,market_demand,31.57688719725008,Ineligible: no interstate access,Not in a screened corridor
+51077,Grayson County,growth,24.794060100816672,Ineligible: no interstate access,Not in a screened corridor
+51077,Grayson County,purchasing_power,2.218970639589494,Ineligible: no interstate access,Not in a screened corridor
+51077,Grayson County,highway_opportunity,13.138084025786636,Ineligible: no interstate access,Not in a screened corridor
+51077,Grayson County,accessibility,72.04021376625143,Ineligible: no interstate access,Not in a screened corridor
+51077,Grayson County,commercial_activity,10.048901667457123,Ineligible: no interstate access,Not in a screened corridor
+51077,Grayson County,competition,75.49217951228002,Ineligible: no interstate access,Not in a screened corridor
+51077,Grayson County,overlap_risk,95.45065972839083,Ineligible: no interstate access,Not in a screened corridor
+51079,Greene County,market_demand,37.82147955156897,Overlap constrained,Not in a screened corridor
+51079,Greene County,growth,67.12512623127473,Overlap constrained,Not in a screened corridor
+51079,Greene County,purchasing_power,33.465703418095,Overlap constrained,Not in a screened corridor
+51079,Greene County,highway_opportunity,16.103979366960946,Overlap constrained,Not in a screened corridor
+51079,Greene County,accessibility,69.84538916375726,Overlap constrained,Not in a screened corridor
+51079,Greene County,commercial_activity,24.41803577156649,Overlap constrained,Not in a screened corridor
+51079,Greene County,competition,79.73741007194245,Overlap constrained,Not in a screened corridor
+51079,Greene County,overlap_risk,20.910768713110123,Overlap constrained,Not in a screened corridor
+51081,Greensville County,market_demand,26.297881868210894,Watchlist,I-95 / I-85 Southside
+51081,Greensville County,growth,25.362412770406475,Watchlist,I-95 / I-85 Southside
+51081,Greensville County,purchasing_power,6.266081126676699,Watchlist,I-95 / I-85 Southside
+51081,Greensville County,highway_opportunity,31.364945195931217,Watchlist,I-95 / I-85 Southside
+51081,Greensville County,accessibility,99.77376697599782,Watchlist,I-95 / I-85 Southside
+51081,Greensville County,commercial_activity,0.6432187165841494,Watchlist,I-95 / I-85 Southside
+51081,Greensville County,competition,62.62606157112526,Watchlist,I-95 / I-85 Southside
+51081,Greensville County,overlap_risk,53.70996096471593,Watchlist,I-95 / I-85 Southside
+51083,Halifax County,market_demand,44.06139030212706,Ineligible: no interstate access,Not in a screened corridor
+51083,Halifax County,growth,23.106960952125,Ineligible: no interstate access,Not in a screened corridor
+51083,Halifax County,purchasing_power,5.392145536782434,Ineligible: no interstate access,Not in a screened corridor
+51083,Halifax County,highway_opportunity,20.106995426804257,Ineligible: no interstate access,Not in a screened corridor
+51083,Halifax County,accessibility,40.195954499214125,Ineligible: no interstate access,Not in a screened corridor
+51083,Halifax County,commercial_activity,31.147615084615058,Ineligible: no interstate access,Not in a screened corridor
+51083,Halifax County,competition,79.17467688030521,Ineligible: no interstate access,Not in a screened corridor
+51083,Halifax County,overlap_risk,43.811011219582916,Ineligible: no interstate access,Not in a screened corridor
+51085,Hanover County,market_demand,64.11995969284791,Priority candidate,I-95 Richmond North
+51085,Hanover County,growth,62.81861274760016,Priority candidate,I-95 Richmond North
+51085,Hanover County,purchasing_power,52.539762126554734,Priority candidate,I-95 Richmond North
+51085,Hanover County,highway_opportunity,60.60484249107223,Priority candidate,I-95 Richmond North
+51085,Hanover County,accessibility,97.41133980698764,Priority candidate,I-95 Richmond North
+51085,Hanover County,commercial_activity,54.057275454601736,Priority candidate,I-95 Richmond North
+51085,Hanover County,competition,79.81943897108873,Priority candidate,I-95 Richmond North
+51085,Hanover County,overlap_risk,26.907428935454348,Priority candidate,I-95 Richmond North
+51087,Henrico County,market_demand,81.03914076715007,Overlap constrained,I-95 Richmond North
+51087,Henrico County,growth,47.23235713144826,Overlap constrained,I-95 Richmond North
+51087,Henrico County,purchasing_power,40.242392256230026,Overlap constrained,I-95 Richmond North
+51087,Henrico County,highway_opportunity,71.9152973397108,Overlap constrained,I-95 Richmond North
+51087,Henrico County,accessibility,98.78049716128609,Overlap constrained,I-95 Richmond North
+51087,Henrico County,commercial_activity,67.24365734066592,Overlap constrained,I-95 Richmond North
+51087,Henrico County,competition,86.94637805964705,Overlap constrained,I-95 Richmond North
+51087,Henrico County,overlap_risk,18.57422106719811,Overlap constrained,I-95 Richmond North
+51089,Henry County,market_demand,50.326747572816515,Ineligible: no interstate access,Not in a screened corridor
+51089,Henry County,growth,29.334399898674285,Ineligible: no interstate access,Not in a screened corridor
+51089,Henry County,purchasing_power,6.085662476320229,Ineligible: no interstate access,Not in a screened corridor
+51089,Henry County,highway_opportunity,22.649597496733982,Ineligible: no interstate access,Not in a screened corridor
+51089,Henry County,accessibility,53.21232946001173,Ineligible: no interstate access,Not in a screened corridor
+51089,Henry County,commercial_activity,32.16738411502809,Ineligible: no interstate access,Not in a screened corridor
+51089,Henry County,competition,68.31099639299778,Ineligible: no interstate access,Not in a screened corridor
+51089,Henry County,overlap_risk,44.03749187285934,Ineligible: no interstate access,Not in a screened corridor
+51091,Highland County,market_demand,0.0,Ineligible: no interstate access,Not in a screened corridor
+51091,Highland County,growth,48.76866293949976,Ineligible: no interstate access,Not in a screened corridor
+51091,Highland County,purchasing_power,17.96362036389699,Ineligible: no interstate access,Not in a screened corridor
+51091,Highland County,highway_opportunity,2.291063107456091,Ineligible: no interstate access,Not in a screened corridor
+51091,Highland County,accessibility,49.563291079777926,Ineligible: no interstate access,Not in a screened corridor
+51091,Highland County,commercial_activity,7.243917206795772,Ineligible: no interstate access,Not in a screened corridor
+51091,Highland County,competition,100.00000000000001,Ineligible: no interstate access,Not in a screened corridor
+51091,Highland County,overlap_risk,28.937968343244986,Ineligible: no interstate access,Not in a screened corridor
+51093,Isle of Wight County,market_demand,47.80824451264399,Ineligible: no interstate access,I-64 / I-264 Hampton Roads
+51093,Isle of Wight County,growth,72.1485796463981,Ineligible: no interstate access,I-64 / I-264 Hampton Roads
+51093,Isle of Wight County,purchasing_power,43.19394997201352,Ineligible: no interstate access,I-64 / I-264 Hampton Roads
+51093,Isle of Wight County,highway_opportunity,20.502789656875436,Ineligible: no interstate access,I-64 / I-264 Hampton Roads
+51093,Isle of Wight County,accessibility,74.48431301821076,Ineligible: no interstate access,I-64 / I-264 Hampton Roads
+51093,Isle of Wight County,commercial_activity,34.43534029889228,Ineligible: no interstate access,I-64 / I-264 Hampton Roads
+51093,Isle of Wight County,competition,78.57849102525098,Ineligible: no interstate access,I-64 / I-264 Hampton Roads
+51093,Isle of Wight County,overlap_risk,36.890628753017296,Ineligible: no interstate access,I-64 / I-264 Hampton Roads
+51095,James City County,market_demand,57.81019002447995,Overlap constrained,I-64 / I-264 Hampton Roads
+51095,James City County,growth,68.49573083273661,Overlap constrained,I-64 / I-264 Hampton Roads
+51095,James City County,purchasing_power,53.01769488878398,Overlap constrained,I-64 / I-264 Hampton Roads
+51095,James City County,highway_opportunity,41.539022621436345,Overlap constrained,I-64 / I-264 Hampton Roads
+51095,James City County,accessibility,95.24496305765118,Overlap constrained,I-64 / I-264 Hampton Roads
+51095,James City County,commercial_activity,44.98945913688956,Overlap constrained,I-64 / I-264 Hampton Roads
+51095,James City County,competition,91.20349549009319,Overlap constrained,I-64 / I-264 Hampton Roads
+51095,James City County,overlap_risk,13.798588871252308,Overlap constrained,I-64 / I-264 Hampton Roads
+51097,King and Queen County,market_demand,19.928324005144002,Overlap constrained,Not in a screened corridor
+51097,King and Queen County,growth,18.299104441837816,Overlap constrained,Not in a screened corridor
+51097,King and Queen County,purchasing_power,25.962706998959707,Overlap constrained,Not in a screened corridor
+51097,King and Queen County,highway_opportunity,13.724687556507792,Overlap constrained,Not in a screened corridor
+51097,King and Queen County,accessibility,74.31438709126117,Overlap constrained,Not in a screened corridor
+51097,King and Queen County,commercial_activity,0.06883485326459436,Overlap constrained,Not in a screened corridor
+51097,King and Queen County,competition,64.84296984222088,Overlap constrained,Not in a screened corridor
+51097,King and Queen County,overlap_risk,13.372129374676275,Overlap constrained,Not in a screened corridor
+51099,King George County,market_demand,42.203638874452196,Overlap constrained,Not in a screened corridor
+51099,King George County,growth,60.6126494008135,Overlap constrained,Not in a screened corridor
+51099,King George County,purchasing_power,49.86345388423532,Overlap constrained,Not in a screened corridor
+51099,King George County,highway_opportunity,19.38664253569652,Overlap constrained,Not in a screened corridor
+51099,King George County,accessibility,72.71623380731631,Overlap constrained,Not in a screened corridor
+51099,King George County,commercial_activity,26.742898981045332,Overlap constrained,Not in a screened corridor
+51099,King George County,competition,77.783542061065,Overlap constrained,Not in a screened corridor
+51099,King George County,overlap_risk,15.726474280563057,Overlap constrained,Not in a screened corridor
+51101,King William County,market_demand,36.1612046778467,Overlap constrained,Not in a screened corridor
+51101,King William County,growth,77.02701945489731,Overlap constrained,Not in a screened corridor
+51101,King William County,purchasing_power,31.60430879448709,Overlap constrained,Not in a screened corridor
+51101,King William County,highway_opportunity,14.983919688199736,Overlap constrained,Not in a screened corridor
+51101,King William County,accessibility,78.44325319359815,Overlap constrained,Not in a screened corridor
+51101,King William County,commercial_activity,25.291031544266545,Overlap constrained,Not in a screened corridor
+51101,King William County,competition,71.67845911949685,Overlap constrained,Not in a screened corridor
+51101,King William County,overlap_risk,12.494139552773579,Overlap constrained,Not in a screened corridor
+51103,Lancaster County,market_demand,25.193050421171975,Ineligible: no interstate access,Not in a screened corridor
+51103,Lancaster County,growth,41.24165240270796,Ineligible: no interstate access,Not in a screened corridor
+51103,Lancaster County,purchasing_power,30.103490526268303,Ineligible: no interstate access,Not in a screened corridor
+51103,Lancaster County,highway_opportunity,12.47593048290176,Ineligible: no interstate access,Not in a screened corridor
+51103,Lancaster County,accessibility,54.797244028358165,Ineligible: no interstate access,Not in a screened corridor
+51103,Lancaster County,commercial_activity,46.25916975506502,Ineligible: no interstate access,Not in a screened corridor
+51103,Lancaster County,competition,65.47137427975971,Ineligible: no interstate access,Not in a screened corridor
+51103,Lancaster County,overlap_risk,27.865504040322755,Ineligible: no interstate access,Not in a screened corridor
+51105,Lee County,market_demand,35.51972538994812,Ineligible: no interstate access,Not in a screened corridor
+51105,Lee County,growth,4.0030125160100045,Ineligible: no interstate access,Not in a screened corridor
+51105,Lee County,purchasing_power,0.7517751262074452,Ineligible: no interstate access,Not in a screened corridor
+51105,Lee County,highway_opportunity,16.628515058445107,Ineligible: no interstate access,Not in a screened corridor
+51105,Lee County,accessibility,50.95654515709606,Ineligible: no interstate access,Not in a screened corridor
+51105,Lee County,commercial_activity,15.567590825601977,Ineligible: no interstate access,Not in a screened corridor
+51105,Lee County,competition,63.79601064634183,Ineligible: no interstate access,Not in a screened corridor
+51105,Lee County,overlap_risk,47.31347789971588,Ineligible: no interstate access,Not in a screened corridor
+51107,Loudoun County,market_demand,84.34695130775327,Ineligible: no interstate access,Not in a screened corridor
+51107,Loudoun County,growth,80.5844373246565,Ineligible: no interstate access,Not in a screened corridor
+51107,Loudoun County,purchasing_power,100.0,Ineligible: no interstate access,Not in a screened corridor
+51107,Loudoun County,highway_opportunity,32.6011958581149,Ineligible: no interstate access,Not in a screened corridor
+51107,Loudoun County,accessibility,71.67933781570572,Ineligible: no interstate access,Not in a screened corridor
+51107,Loudoun County,commercial_activity,68.7827686623713,Ineligible: no interstate access,Not in a screened corridor
+51107,Loudoun County,competition,92.3061223215526,Ineligible: no interstate access,Not in a screened corridor
+51107,Loudoun County,overlap_risk,39.42214763931022,Ineligible: no interstate access,Not in a screened corridor
+51109,Louisa County,market_demand,47.47675521911844,Secondary candidate,I-64 Richmond West
+51109,Louisa County,growth,79.43711162401907,Secondary candidate,I-64 Richmond West
+51109,Louisa County,purchasing_power,31.922809746579873,Secondary candidate,I-64 Richmond West
+51109,Louisa County,highway_opportunity,31.218248126056515,Secondary candidate,I-64 Richmond West
+51109,Louisa County,accessibility,88.77596074183208,Secondary candidate,I-64 Richmond West
+51109,Louisa County,commercial_activity,29.759924053869526,Secondary candidate,I-64 Richmond West
+51109,Louisa County,competition,75.93475511808332,Secondary candidate,I-64 Richmond West
+51109,Louisa County,overlap_risk,33.899419033422205,Secondary candidate,I-64 Richmond West
+51111,Lunenburg County,market_demand,27.282943872050044,Ineligible: no interstate access,Not in a screened corridor
+51111,Lunenburg County,growth,28.82428426190852,Ineligible: no interstate access,Not in a screened corridor
+51111,Lunenburg County,purchasing_power,7.560071092661397,Ineligible: no interstate access,Not in a screened corridor
+51111,Lunenburg County,highway_opportunity,9.75603495943826,Ineligible: no interstate access,Not in a screened corridor
+51111,Lunenburg County,accessibility,75.70121469094768,Ineligible: no interstate access,Not in a screened corridor
+51111,Lunenburg County,commercial_activity,9.25853044962632,Ineligible: no interstate access,Not in a screened corridor
+51111,Lunenburg County,competition,72.59452321378927,Ineligible: no interstate access,Not in a screened corridor
+51111,Lunenburg County,overlap_risk,65.19712643614973,Ineligible: no interstate access,Not in a screened corridor
+51113,Madison County,market_demand,31.16597822701364,Ineligible: no interstate access,Not in a screened corridor
+51113,Madison County,growth,68.21695566338782,Ineligible: no interstate access,Not in a screened corridor
+51113,Madison County,purchasing_power,31.249636032900085,Ineligible: no interstate access,Not in a screened corridor
+51113,Madison County,highway_opportunity,16.592745945284754,Ineligible: no interstate access,Not in a screened corridor
+51113,Madison County,accessibility,57.847213008187026,Ineligible: no interstate access,Not in a screened corridor
+51113,Madison County,commercial_activity,17.911163988420846,Ineligible: no interstate access,Not in a screened corridor
+51113,Madison County,competition,79.78249946163233,Ineligible: no interstate access,Not in a screened corridor
+51113,Madison County,overlap_risk,29.347925162964454,Ineligible: no interstate access,Not in a screened corridor
+51115,Mathews County,market_demand,21.741957816982136,Ineligible: no interstate access,Not in a screened corridor
+51115,Mathews County,growth,20.46341923372831,Ineligible: no interstate access,Not in a screened corridor
+51115,Mathews County,purchasing_power,31.639818669249593,Ineligible: no interstate access,Not in a screened corridor
+51115,Mathews County,highway_opportunity,8.25282196538043,Ineligible: no interstate access,Not in a screened corridor
+51115,Mathews County,accessibility,68.06229207448311,Ineligible: no interstate access,Not in a screened corridor
+51115,Mathews County,commercial_activity,17.70942454038944,Ineligible: no interstate access,Not in a screened corridor
+51115,Mathews County,competition,66.930844193965,Ineligible: no interstate access,Not in a screened corridor
+51115,Mathews County,overlap_risk,30.06865408590972,Ineligible: no interstate access,Not in a screened corridor
+51117,Mecklenburg County,market_demand,42.54804443870349,Watchlist,I-95 / I-85 Southside
+51117,Mecklenburg County,growth,30.607963086658533,Watchlist,I-95 / I-85 Southside
+51117,Mecklenburg County,purchasing_power,10.800731781444474,Watchlist,I-95 / I-85 Southside
+51117,Mecklenburg County,highway_opportunity,29.82697802113229,Watchlist,I-95 / I-85 Southside
+51117,Mecklenburg County,accessibility,80.02839158701975,Watchlist,I-95 / I-85 Southside
+51117,Mecklenburg County,commercial_activity,37.4337413396031,Watchlist,I-95 / I-85 Southside
+51117,Mecklenburg County,competition,49.09549472577306,Watchlist,I-95 / I-85 Southside
+51117,Mecklenburg County,overlap_risk,56.42575386983611,Watchlist,I-95 / I-85 Southside
+51119,Middlesex County,market_demand,25.22604430777218,Overlap constrained,Not in a screened corridor
+51119,Middlesex County,growth,44.42178911626382,Overlap constrained,Not in a screened corridor
+51119,Middlesex County,purchasing_power,27.34630886634492,Overlap constrained,Not in a screened corridor
+51119,Middlesex County,highway_opportunity,14.200860002207898,Overlap constrained,Not in a screened corridor
+51119,Middlesex County,accessibility,69.3485048595212,Overlap constrained,Not in a screened corridor
+51119,Middlesex County,commercial_activity,30.015587736360224,Overlap constrained,Not in a screened corridor
+51119,Middlesex County,competition,65.14448363343851,Overlap constrained,Not in a screened corridor
+51119,Middlesex County,overlap_risk,20.892818111111094,Overlap constrained,Not in a screened corridor
+51121,Montgomery County,market_demand,61.80223641090406,Secondary candidate,I-81 New River Valley
+51121,Montgomery County,growth,42.41308424363141,Secondary candidate,I-81 New River Valley
+51121,Montgomery County,purchasing_power,22.361799589439734,Secondary candidate,I-81 New River Valley
+51121,Montgomery County,highway_opportunity,39.717983447755486,Secondary candidate,I-81 New River Valley
+51121,Montgomery County,accessibility,95.38748427625839,Secondary candidate,I-81 New River Valley
+51121,Montgomery County,commercial_activity,48.09312425678287,Secondary candidate,I-81 New River Valley
+51121,Montgomery County,competition,84.85126581214682,Secondary candidate,I-81 New River Valley
+51121,Montgomery County,overlap_risk,81.02521678307295,Secondary candidate,I-81 New River Valley
+51125,Nelson County,market_demand,30.47934196884075,Traffic data unavailable,I-64 Charlottesville
+51125,Nelson County,growth,30.98135474640614,Traffic data unavailable,I-64 Charlottesville
+51125,Nelson County,purchasing_power,27.831615604027146,Traffic data unavailable,I-64 Charlottesville
+51125,Nelson County,highway_opportunity,18.93523521621694,Traffic data unavailable,I-64 Charlottesville
+51125,Nelson County,accessibility,73.31656338479677,Traffic data unavailable,I-64 Charlottesville
+51125,Nelson County,commercial_activity,20.461533719724674,Traffic data unavailable,I-64 Charlottesville
+51125,Nelson County,competition,58.70327761611513,Traffic data unavailable,I-64 Charlottesville
+51125,Nelson County,overlap_risk,32.547128149218175,Traffic data unavailable,I-64 Charlottesville
+51127,New Kent County,market_demand,39.7540205127341,Reference case,I-64 Richmond East / New Kent
+51127,New Kent County,growth,100.0,Reference case,I-64 Richmond East / New Kent
+51127,New Kent County,purchasing_power,57.86025650456825,Reference case,I-64 Richmond East / New Kent
+51127,New Kent County,highway_opportunity,42.19669065377422,Reference case,I-64 Richmond East / New Kent
+51127,New Kent County,accessibility,98.61457547693608,Reference case,I-64 Richmond East / New Kent
+51127,New Kent County,commercial_activity,26.627294925355514,Reference case,I-64 Richmond East / New Kent
+51127,New Kent County,competition,78.60895922228205,Reference case,I-64 Richmond East / New Kent
+51127,New Kent County,overlap_risk,0.2286370910389316,Reference case,I-64 Richmond East / New Kent
+51131,Northampton County,market_demand,28.029320269148503,Ineligible: no interstate access,Not in a screened corridor
+51131,Northampton County,growth,42.594611179616855,Ineligible: no interstate access,Not in a screened corridor
+51131,Northampton County,purchasing_power,17.111425353883035,Ineligible: no interstate access,Not in a screened corridor
+51131,Northampton County,highway_opportunity,19.73088359819279,Ineligible: no interstate access,Not in a screened corridor
+51131,Northampton County,accessibility,47.775292325797146,Ineligible: no interstate access,Not in a screened corridor
+51131,Northampton County,commercial_activity,41.510684994879746,Ineligible: no interstate access,Not in a screened corridor
+51131,Northampton County,competition,53.50392075938918,Ineligible: no interstate access,Not in a screened corridor
+51131,Northampton County,overlap_risk,52.05205089806823,Ineligible: no interstate access,Not in a screened corridor
+51133,Northumberland County,market_demand,26.920552591978307,Ineligible: no interstate access,Not in a screened corridor
+51133,Northumberland County,growth,30.111980542898184,Ineligible: no interstate access,Not in a screened corridor
+51133,Northumberland County,purchasing_power,29.694481094139796,Ineligible: no interstate access,Not in a screened corridor
+51133,Northumberland County,highway_opportunity,12.04536049362294,Ineligible: no interstate access,Not in a screened corridor
+51133,Northumberland County,accessibility,39.107552107394035,Ineligible: no interstate access,Not in a screened corridor
+51133,Northumberland County,commercial_activity,20.010643079255935,Ineligible: no interstate access,Not in a screened corridor
+51133,Northumberland County,competition,65.04137360364088,Ineligible: no interstate access,Not in a screened corridor
+51133,Northumberland County,overlap_risk,34.52775292298459,Ineligible: no interstate access,Not in a screened corridor
+51135,Nottoway County,market_demand,31.550786579385875,Ineligible: no interstate access,Not in a screened corridor
+51135,Nottoway County,growth,44.832888129480466,Ineligible: no interstate access,Not in a screened corridor
+51135,Nottoway County,purchasing_power,10.862928002275456,Ineligible: no interstate access,Not in a screened corridor
+51135,Nottoway County,highway_opportunity,15.724907622001675,Ineligible: no interstate access,Not in a screened corridor
+51135,Nottoway County,accessibility,65.77860125013086,Ineligible: no interstate access,Not in a screened corridor
+51135,Nottoway County,commercial_activity,24.89123151875337,Ineligible: no interstate access,Not in a screened corridor
+51135,Nottoway County,competition,66.89374024919321,Ineligible: no interstate access,Not in a screened corridor
+51135,Nottoway County,overlap_risk,52.315058783573626,Ineligible: no interstate access,Not in a screened corridor
+51137,Orange County,market_demand,46.41287011089736,Ineligible: no interstate access,Not in a screened corridor
+51137,Orange County,growth,57.57179826483725,Ineligible: no interstate access,Not in a screened corridor
+51137,Orange County,purchasing_power,40.34511463760014,Ineligible: no interstate access,Not in a screened corridor
+51137,Orange County,highway_opportunity,18.269860067085634,Ineligible: no interstate access,Not in a screened corridor
+51137,Orange County,accessibility,66.42760962027356,Ineligible: no interstate access,Not in a screened corridor
+51137,Orange County,commercial_activity,36.501678140773706,Ineligible: no interstate access,Not in a screened corridor
+51137,Orange County,competition,77.29117394108793,Ineligible: no interstate access,Not in a screened corridor
+51137,Orange County,overlap_risk,26.868240994357507,Ineligible: no interstate access,Not in a screened corridor
+51139,Page County,market_demand,39.816754937791686,Ineligible: no interstate access,I-81 Harrisonburg / Rockingham
+51139,Page County,growth,36.111822622287754,Ineligible: no interstate access,I-81 Harrisonburg / Rockingham
+51139,Page County,purchasing_power,13.179453011187674,Ineligible: no interstate access,I-81 Harrisonburg / Rockingham
+51139,Page County,highway_opportunity,14.764576960961591,Ineligible: no interstate access,I-81 Harrisonburg / Rockingham
+51139,Page County,accessibility,83.82630396344769,Ineligible: no interstate access,I-81 Harrisonburg / Rockingham
+51139,Page County,commercial_activity,29.690391236025796,Ineligible: no interstate access,I-81 Harrisonburg / Rockingham
+51139,Page County,competition,84.1880701754386,Ineligible: no interstate access,I-81 Harrisonburg / Rockingham
+51139,Page County,overlap_risk,24.95386559059179,Ineligible: no interstate access,I-81 Harrisonburg / Rockingham
+51141,Patrick County,market_demand,33.95984282868668,Ineligible: no interstate access,Not in a screened corridor
+51141,Patrick County,growth,31.173179789608863,Ineligible: no interstate access,Not in a screened corridor
+51141,Patrick County,purchasing_power,10.321792993061802,Ineligible: no interstate access,Not in a screened corridor
+51141,Patrick County,highway_opportunity,13.914069520012658,Ineligible: no interstate access,Not in a screened corridor
+51141,Patrick County,accessibility,65.98109518948752,Ineligible: no interstate access,Not in a screened corridor
+51141,Patrick County,commercial_activity,17.01639329872406,Ineligible: no interstate access,Not in a screened corridor
+51141,Patrick County,competition,62.67276307319474,Ineligible: no interstate access,Not in a screened corridor
+51141,Patrick County,overlap_risk,57.35675312121422,Ineligible: no interstate access,Not in a screened corridor
+51143,Pittsylvania County,market_demand,53.67966468793211,Ineligible: no interstate access,Not in a screened corridor
+51143,Pittsylvania County,growth,25.100946341262024,Ineligible: no interstate access,Not in a screened corridor
+51143,Pittsylvania County,purchasing_power,10.002036335364119,Ineligible: no interstate access,Not in a screened corridor
+51143,Pittsylvania County,highway_opportunity,24.333721240871284,Ineligible: no interstate access,Not in a screened corridor
+51143,Pittsylvania County,accessibility,33.18424889715978,Ineligible: no interstate access,Not in a screened corridor
+51143,Pittsylvania County,commercial_activity,29.08659494727836,Ineligible: no interstate access,Not in a screened corridor
+51143,Pittsylvania County,competition,86.73258739553546,Ineligible: no interstate access,Not in a screened corridor
+51143,Pittsylvania County,overlap_risk,43.54325042252477,Ineligible: no interstate access,Not in a screened corridor
+51145,Powhatan County,market_demand,43.72292394558715,Ineligible: no interstate access,Not in a screened corridor
+51145,Powhatan County,growth,72.48892822207644,Ineligible: no interstate access,Not in a screened corridor
+51145,Powhatan County,purchasing_power,51.18332152598116,Ineligible: no interstate access,Not in a screened corridor
+51145,Powhatan County,highway_opportunity,20.52464063012846,Ineligible: no interstate access,Not in a screened corridor
+51145,Powhatan County,accessibility,79.62995056806504,Ineligible: no interstate access,Not in a screened corridor
+51145,Powhatan County,commercial_activity,29.905571191632312,Ineligible: no interstate access,Not in a screened corridor
+51145,Powhatan County,competition,80.36166355581301,Ineligible: no interstate access,Not in a screened corridor
+51145,Powhatan County,overlap_risk,41.92266121041694,Ineligible: no interstate access,Not in a screened corridor
+51147,Prince Edward County,market_demand,36.93665758244981,Ineligible: no interstate access,Not in a screened corridor
+51147,Prince Edward County,growth,17.410410214818125,Ineligible: no interstate access,Not in a screened corridor
+51147,Prince Edward County,purchasing_power,7.328619594174542,Ineligible: no interstate access,Not in a screened corridor
+51147,Prince Edward County,highway_opportunity,18.162818560781307,Ineligible: no interstate access,Not in a screened corridor
+51147,Prince Edward County,accessibility,40.90969449710166,Ineligible: no interstate access,Not in a screened corridor
+51147,Prince Edward County,commercial_activity,31.040851677495475,Ineligible: no interstate access,Not in a screened corridor
+51147,Prince Edward County,competition,74.31606784606966,Ineligible: no interstate access,Not in a screened corridor
+51147,Prince Edward County,overlap_risk,67.93524401868211,Ineligible: no interstate access,Not in a screened corridor
+51149,Prince George County,market_demand,49.092084497036176,Overlap constrained,I-95 Richmond South
+51149,Prince George County,growth,89.48737326520299,Overlap constrained,I-95 Richmond South
+51149,Prince George County,purchasing_power,29.51428462110299,Overlap constrained,I-95 Richmond South
+51149,Prince George County,highway_opportunity,50.878871774000515,Overlap constrained,I-95 Richmond South
+51149,Prince George County,accessibility,93.135917439829,Overlap constrained,I-95 Richmond South
+51149,Prince George County,commercial_activity,22.597172257615018,Overlap constrained,I-95 Richmond South
+51149,Prince George County,competition,84.67139380651382,Overlap constrained,I-95 Richmond South
+51149,Prince George County,overlap_risk,20.46879343703438,Overlap constrained,I-95 Richmond South
+51153,Prince William County,market_demand,87.03188994047734,Overlap constrained,I-95 / I-66 Northern Virginia
+51153,Prince William County,growth,60.024821592797664,Overlap constrained,I-95 / I-66 Northern Virginia
+51153,Prince William County,purchasing_power,61.66705629090448,Overlap constrained,I-95 / I-66 Northern Virginia
+51153,Prince William County,highway_opportunity,83.2710564931144,Overlap constrained,I-95 / I-66 Northern Virginia
+51153,Prince William County,accessibility,88.94224092544849,Overlap constrained,I-95 / I-66 Northern Virginia
+51153,Prince William County,commercial_activity,62.0165268343562,Overlap constrained,I-95 / I-66 Northern Virginia
+51153,Prince William County,competition,90.21695469005245,Overlap constrained,I-95 / I-66 Northern Virginia
+51153,Prince William County,overlap_risk,16.29230426009041,Overlap constrained,I-95 / I-66 Northern Virginia
+51155,Pulaski County,market_demand,44.851638045314964,Secondary candidate,I-81 New River Valley
+51155,Pulaski County,growth,28.36352963787081,Secondary candidate,I-81 New River Valley
+51155,Pulaski County,purchasing_power,17.16287068322033,Secondary candidate,I-81 New River Valley
+51155,Pulaski County,highway_opportunity,33.39138352717035,Secondary candidate,I-81 New River Valley
+51155,Pulaski County,accessibility,99.45295137793806,Secondary candidate,I-81 New River Valley
+51155,Pulaski County,commercial_activity,33.22170013223659,Secondary candidate,I-81 New River Valley
+51155,Pulaski County,competition,72.20001381856227,Secondary candidate,I-81 New River Valley
+51155,Pulaski County,overlap_risk,86.88943107335726,Secondary candidate,I-81 New River Valley
+51157,Rappahannock County,market_demand,20.469026286941116,Ineligible: no interstate access,I-66 Piedmont
+51157,Rappahannock County,growth,45.98389370099174,Ineligible: no interstate access,I-66 Piedmont
+51157,Rappahannock County,purchasing_power,50.92138117535335,Ineligible: no interstate access,I-66 Piedmont
+51157,Rappahannock County,highway_opportunity,11.746180855103884,Ineligible: no interstate access,I-66 Piedmont
+51157,Rappahannock County,accessibility,74.65861078867157,Ineligible: no interstate access,I-66 Piedmont
+51157,Rappahannock County,commercial_activity,19.880537470010964,Ineligible: no interstate access,I-66 Piedmont
+51157,Rappahannock County,competition,74.65694875601744,Ineligible: no interstate access,I-66 Piedmont
+51157,Rappahannock County,overlap_risk,35.0704838237782,Ineligible: no interstate access,I-66 Piedmont
+51159,Richmond County,market_demand,21.862738064685637,Ineligible: no interstate access,Not in a screened corridor
+51159,Richmond County,growth,44.95811075645775,Ineligible: no interstate access,Not in a screened corridor
+51159,Richmond County,purchasing_power,13.18324872169003,Ineligible: no interstate access,Not in a screened corridor
+51159,Richmond County,highway_opportunity,13.269718685891435,Ineligible: no interstate access,Not in a screened corridor
+51159,Richmond County,accessibility,47.13716333400574,Ineligible: no interstate access,Not in a screened corridor
+51159,Richmond County,commercial_activity,18.1810515940437,Ineligible: no interstate access,Not in a screened corridor
+51159,Richmond County,competition,79.24542205519326,Ineligible: no interstate access,Not in a screened corridor
+51159,Richmond County,overlap_risk,28.312009120242717,Ineligible: no interstate access,Not in a screened corridor
+51161,Roanoke County,market_demand,61.430274901379356,Priority candidate,I-81 Roanoke / Salem
+51161,Roanoke County,growth,50.27370046668745,Priority candidate,I-81 Roanoke / Salem
+51161,Roanoke County,purchasing_power,34.642677458911315,Priority candidate,I-81 Roanoke / Salem
+51161,Roanoke County,highway_opportunity,45.656095407818384,Priority candidate,I-81 Roanoke / Salem
+51161,Roanoke County,accessibility,96.62990744207309,Priority candidate,I-81 Roanoke / Salem
+51161,Roanoke County,commercial_activity,44.607147014741884,Priority candidate,I-81 Roanoke / Salem
+51161,Roanoke County,competition,87.39078927883904,Priority candidate,I-81 Roanoke / Salem
+51161,Roanoke County,overlap_risk,77.64109658378004,Priority candidate,I-81 Roanoke / Salem
+51163,Rockbridge County,market_demand,38.4736998812607,Watchlist,I-81 Roanoke / Salem
+51163,Rockbridge County,growth,35.196618575031025,Watchlist,I-81 Roanoke / Salem
+51163,Rockbridge County,purchasing_power,20.235436456351888,Watchlist,I-81 Roanoke / Salem
+51163,Rockbridge County,highway_opportunity,37.50483020140571,Watchlist,I-81 Roanoke / Salem
+51163,Rockbridge County,accessibility,99.4467049977715,Watchlist,I-81 Roanoke / Salem
+51163,Rockbridge County,commercial_activity,26.269270679804006,Watchlist,I-81 Roanoke / Salem
+51163,Rockbridge County,competition,64.65549059556501,Watchlist,I-81 Roanoke / Salem
+51163,Rockbridge County,overlap_risk,38.958016003052236,Watchlist,I-81 Roanoke / Salem
+51165,Rockingham County,market_demand,60.12711719272046,Reference case,I-81 Harrisonburg / Rockingham
+51165,Rockingham County,growth,64.1990445001442,Reference case,I-81 Harrisonburg / Rockingham
+51165,Rockingham County,purchasing_power,28.303907654655177,Reference case,I-81 Harrisonburg / Rockingham
+51165,Rockingham County,highway_opportunity,40.623994512640074,Reference case,I-81 Harrisonburg / Rockingham
+51165,Rockingham County,accessibility,93.62835534260607,Reference case,I-81 Harrisonburg / Rockingham
+51165,Rockingham County,commercial_activity,38.65830970148688,Reference case,I-81 Harrisonburg / Rockingham
+51165,Rockingham County,competition,86.15110319136801,Reference case,I-81 Harrisonburg / Rockingham
+51165,Rockingham County,overlap_risk,9.127751683986332,Reference case,I-81 Harrisonburg / Rockingham
+51167,Russell County,market_demand,39.057615621423025,Ineligible: no interstate access,I-81 Bristol / Southwest
+51167,Russell County,growth,11.058031214972637,Ineligible: no interstate access,I-81 Bristol / Southwest
+51167,Russell County,purchasing_power,6.2559542726168,Ineligible: no interstate access,I-81 Bristol / Southwest
+51167,Russell County,highway_opportunity,18.53004467740737,Ineligible: no interstate access,I-81 Bristol / Southwest
+51167,Russell County,accessibility,72.8747344694769,Ineligible: no interstate access,I-81 Bristol / Southwest
+51167,Russell County,commercial_activity,24.735022151147422,Ineligible: no interstate access,I-81 Bristol / Southwest
+51167,Russell County,competition,70.70151485599116,Ineligible: no interstate access,I-81 Bristol / Southwest
+51167,Russell County,overlap_risk,89.38141054723064,Ineligible: no interstate access,I-81 Bristol / Southwest
+51169,Scott County,market_demand,36.63453438298441,Ineligible: no interstate access,I-81 Bristol / Southwest
+51169,Scott County,growth,24.672462834045678,Ineligible: no interstate access,I-81 Bristol / Southwest
+51169,Scott County,purchasing_power,3.998203779163729,Ineligible: no interstate access,I-81 Bristol / Southwest
+51169,Scott County,highway_opportunity,17.99811010174102,Ineligible: no interstate access,I-81 Bristol / Southwest
+51169,Scott County,accessibility,86.6852150507899,Ineligible: no interstate access,I-81 Bristol / Southwest
+51169,Scott County,commercial_activity,17.757543439354393,Ineligible: no interstate access,I-81 Bristol / Southwest
+51169,Scott County,competition,49.79267423115079,Ineligible: no interstate access,I-81 Bristol / Southwest
+51169,Scott County,overlap_risk,63.08712105212586,Ineligible: no interstate access,I-81 Bristol / Southwest
+51171,Shenandoah County,market_demand,49.42500674031633,Secondary candidate,I-81 Winchester / Frederick
+51171,Shenandoah County,growth,48.4692490694608,Secondary candidate,I-81 Winchester / Frederick
+51171,Shenandoah County,purchasing_power,18.77029131396594,Secondary candidate,I-81 Winchester / Frederick
+51171,Shenandoah County,highway_opportunity,40.47606813416119,Secondary candidate,I-81 Winchester / Frederick
+51171,Shenandoah County,accessibility,97.98944712370208,Secondary candidate,I-81 Winchester / Frederick
+51171,Shenandoah County,commercial_activity,39.56312447214904,Secondary candidate,I-81 Winchester / Frederick
+51171,Shenandoah County,competition,73.70509373366197,Secondary candidate,I-81 Winchester / Frederick
+51171,Shenandoah County,overlap_risk,32.963161013656254,Secondary candidate,I-81 Winchester / Frederick
+51173,Smyth County,market_demand,42.15198417349814,Watchlist,I-81 Bristol / Southwest
+51173,Smyth County,growth,15.29496423639272,Watchlist,I-81 Bristol / Southwest
+51173,Smyth County,purchasing_power,5.817888729088967,Watchlist,I-81 Bristol / Southwest
+51173,Smyth County,highway_opportunity,30.338519884476355,Watchlist,I-81 Bristol / Southwest
+51173,Smyth County,accessibility,97.68203666528666,Watchlist,I-81 Bristol / Southwest
+51173,Smyth County,commercial_activity,30.73746293464134,Watchlist,I-81 Bristol / Southwest
+51173,Smyth County,competition,76.19993239817475,Watchlist,I-81 Bristol / Southwest
+51173,Smyth County,overlap_risk,99.99999999999999,Watchlist,I-81 Bristol / Southwest
+51175,Southampton County,market_demand,35.19544034788359,Ineligible: no interstate access,Not in a screened corridor
+51175,Southampton County,growth,37.606261031145415,Ineligible: no interstate access,Not in a screened corridor
+51175,Southampton County,purchasing_power,19.067601533349716,Ineligible: no interstate access,Not in a screened corridor
+51175,Southampton County,highway_opportunity,20.276483869288167,Ineligible: no interstate access,Not in a screened corridor
+51175,Southampton County,accessibility,69.13756623302079,Ineligible: no interstate access,Not in a screened corridor
+51175,Southampton County,commercial_activity,8.39584538094194,Ineligible: no interstate access,Not in a screened corridor
+51175,Southampton County,competition,68.684678674672,Ineligible: no interstate access,Not in a screened corridor
+51175,Southampton County,overlap_risk,44.804195703709,Ineligible: no interstate access,Not in a screened corridor
+51177,Spotsylvania County,market_demand,67.8033610672746,Overlap constrained,I-95 Fredericksburg / Stafford
+51177,Spotsylvania County,growth,74.29523939501975,Overlap constrained,I-95 Fredericksburg / Stafford
+51177,Spotsylvania County,purchasing_power,49.24959925310157,Overlap constrained,I-95 Fredericksburg / Stafford
+51177,Spotsylvania County,highway_opportunity,73.60069369988514,Overlap constrained,I-95 Fredericksburg / Stafford
+51177,Spotsylvania County,accessibility,87.03473259358836,Overlap constrained,I-95 Fredericksburg / Stafford
+51177,Spotsylvania County,commercial_activity,48.214996665478544,Overlap constrained,I-95 Fredericksburg / Stafford
+51177,Spotsylvania County,competition,87.60193963320266,Overlap constrained,I-95 Fredericksburg / Stafford
+51177,Spotsylvania County,overlap_risk,15.871722375406566,Overlap constrained,I-95 Fredericksburg / Stafford
+51179,Stafford County,market_demand,69.36919236929577,Reference case,I-95 Fredericksburg / Stafford
+51179,Stafford County,growth,81.06840788168137,Reference case,I-95 Fredericksburg / Stafford
+51179,Stafford County,purchasing_power,64.89263765779394,Reference case,I-95 Fredericksburg / Stafford
+51179,Stafford County,highway_opportunity,89.92639532101462,Reference case,I-95 Fredericksburg / Stafford
+51179,Stafford County,accessibility,97.38219988542215,Reference case,I-95 Fredericksburg / Stafford
+51179,Stafford County,commercial_activity,44.73222218180854,Reference case,I-95 Fredericksburg / Stafford
+51179,Stafford County,competition,92.68912492731954,Reference case,I-95 Fredericksburg / Stafford
+51179,Stafford County,overlap_risk,0.0,Reference case,I-95 Fredericksburg / Stafford
+51181,Surry County,market_demand,19.591671957765815,Overlap constrained,Not in a screened corridor
+51181,Surry County,growth,35.18131550674178,Overlap constrained,Not in a screened corridor
+51181,Surry County,purchasing_power,24.194360893285502,Overlap constrained,Not in a screened corridor
+51181,Surry County,highway_opportunity,8.356128840354772,Overlap constrained,Not in a screened corridor
+51181,Surry County,accessibility,72.904206434256,Overlap constrained,Not in a screened corridor
+51181,Surry County,commercial_activity,3.431247252190645,Overlap constrained,Not in a screened corridor
+51181,Surry County,competition,100.00000000000001,Overlap constrained,Not in a screened corridor
+51181,Surry County,overlap_risk,22.557762049143324,Overlap constrained,Not in a screened corridor
+51183,Sussex County,market_demand,26.156330340316735,Watchlist,Not in a screened corridor
+51183,Sussex County,growth,16.627174489648883,Watchlist,Not in a screened corridor
+51183,Sussex County,purchasing_power,14.481416838750103,Watchlist,Not in a screened corridor
+51183,Sussex County,highway_opportunity,30.888820240113184,Watchlist,Not in a screened corridor
+51183,Sussex County,accessibility,88.45933756418599,Watchlist,Not in a screened corridor
+51183,Sussex County,commercial_activity,17.936192168300078,Watchlist,Not in a screened corridor
+51183,Sussex County,competition,52.15803452855245,Watchlist,Not in a screened corridor
+51183,Sussex County,overlap_risk,35.077608169473095,Watchlist,Not in a screened corridor
+51185,Tazewell County,market_demand,45.87385814193003,Ineligible: no interstate access,Not in a screened corridor
+51185,Tazewell County,growth,12.694031422594147,Ineligible: no interstate access,Not in a screened corridor
+51185,Tazewell County,purchasing_power,4.743996262613513,Ineligible: no interstate access,Not in a screened corridor
+51185,Tazewell County,highway_opportunity,19.657640996835216,Ineligible: no interstate access,Not in a screened corridor
+51185,Tazewell County,accessibility,69.72531560575138,Ineligible: no interstate access,Not in a screened corridor
+51185,Tazewell County,commercial_activity,37.28896680677314,Ineligible: no interstate access,Not in a screened corridor
+51185,Tazewell County,competition,60.03263800198667,Ineligible: no interstate access,Not in a screened corridor
+51185,Tazewell County,overlap_risk,99.99999999999999,Ineligible: no interstate access,Not in a screened corridor
+51187,Warren County,market_demand,48.26111409623118,Secondary candidate,I-81 Winchester / Frederick
+51187,Warren County,growth,52.37200203853863,Secondary candidate,I-81 Winchester / Frederick
+51187,Warren County,purchasing_power,31.78747929535713,Secondary candidate,I-81 Winchester / Frederick
+51187,Warren County,highway_opportunity,35.86423463515283,Secondary candidate,I-81 Winchester / Frederick
+51187,Warren County,accessibility,94.66832160391516,Secondary candidate,I-81 Winchester / Frederick
+51187,Warren County,commercial_activity,38.1854965865406,Secondary candidate,I-81 Winchester / Frederick
+51187,Warren County,competition,81.72765018814066,Secondary candidate,I-81 Winchester / Frederick
+51187,Warren County,overlap_risk,43.977915526073836,Secondary candidate,I-81 Winchester / Frederick
+51191,Washington County,market_demand,52.10347204562147,Secondary candidate,I-81 Bristol / Southwest
+51191,Washington County,growth,36.08507271462522,Secondary candidate,I-81 Bristol / Southwest
+51191,Washington County,purchasing_power,20.241942543320445,Secondary candidate,I-81 Bristol / Southwest
+51191,Washington County,highway_opportunity,41.25311433254376,Secondary candidate,I-81 Bristol / Southwest
+51191,Washington County,accessibility,97.98414729905701,Secondary candidate,I-81 Bristol / Southwest
+51191,Washington County,commercial_activity,40.13378450283185,Secondary candidate,I-81 Bristol / Southwest
+51191,Washington County,competition,66.0429766475618,Secondary candidate,I-81 Bristol / Southwest
+51191,Washington County,overlap_risk,88.03482288875634,Secondary candidate,I-81 Bristol / Southwest
+51193,Westmoreland County,market_demand,34.19054006689191,Ineligible: no interstate access,Not in a screened corridor
+51193,Westmoreland County,growth,55.03545658395674,Ineligible: no interstate access,Not in a screened corridor
+51193,Westmoreland County,purchasing_power,17.846244088200905,Ineligible: no interstate access,Not in a screened corridor
+51193,Westmoreland County,highway_opportunity,13.200397352711391,Ineligible: no interstate access,Not in a screened corridor
+51193,Westmoreland County,accessibility,40.07660800893208,Ineligible: no interstate access,Not in a screened corridor
+51193,Westmoreland County,commercial_activity,28.035291975301014,Ineligible: no interstate access,Not in a screened corridor
+51193,Westmoreland County,competition,77.38719691698336,Ineligible: no interstate access,Not in a screened corridor
+51193,Westmoreland County,overlap_risk,34.275049063159784,Ineligible: no interstate access,Not in a screened corridor
+51195,Wise County,market_demand,43.836732318013745,Ineligible: no interstate access,Not in a screened corridor
+51195,Wise County,growth,5.787089348795926,Ineligible: no interstate access,Not in a screened corridor
+51195,Wise County,purchasing_power,4.356892725237843,Ineligible: no interstate access,Not in a screened corridor
+51195,Wise County,highway_opportunity,20.14469601583421,Ineligible: no interstate access,Not in a screened corridor
+51195,Wise County,accessibility,58.312174973694326,Ineligible: no interstate access,Not in a screened corridor
+51195,Wise County,commercial_activity,32.56170142309844,Ineligible: no interstate access,Not in a screened corridor
+51195,Wise County,competition,61.89693135910282,Ineligible: no interstate access,Not in a screened corridor
+51195,Wise County,overlap_risk,73.49597360783065,Ineligible: no interstate access,Not in a screened corridor
+51197,Wythe County,market_demand,42.176615696312865,Secondary candidate,I-81 New River Valley
+51197,Wythe County,growth,23.871590503039265,Secondary candidate,I-81 New River Valley
+51197,Wythe County,purchasing_power,13.005115213158275,Secondary candidate,I-81 New River Valley
+51197,Wythe County,highway_opportunity,39.67549775550144,Secondary candidate,I-81 New River Valley
+51197,Wythe County,accessibility,95.96307205677059,Secondary candidate,I-81 New River Valley
+51197,Wythe County,commercial_activity,37.49905623960299,Secondary candidate,I-81 New River Valley
+51197,Wythe County,competition,51.75915754160908,Secondary candidate,I-81 New River Valley
+51197,Wythe County,overlap_risk,95.73543164873553,Secondary candidate,I-81 New River Valley
+51199,York County,market_demand,57.126023726463956,Overlap constrained,I-64 / I-264 Hampton Roads
+51199,York County,growth,52.176393714519214,Overlap constrained,I-64 / I-264 Hampton Roads
+51199,York County,purchasing_power,51.725486842120866,Overlap constrained,I-64 / I-264 Hampton Roads
+51199,York County,highway_opportunity,71.37852101972244,Overlap constrained,I-64 / I-264 Hampton Roads
+51199,York County,accessibility,96.14138360836351,Overlap constrained,I-64 / I-264 Hampton Roads
+51199,York County,commercial_activity,46.42376397146684,Overlap constrained,I-64 / I-264 Hampton Roads
+51199,York County,competition,90.69013552438967,Overlap constrained,I-64 / I-264 Hampton Roads
+51199,York County,overlap_risk,24.586484663608402,Overlap constrained,I-64 / I-264 Hampton Roads
+51510,Alexandria city,market_demand,69.99246888378354,Traffic data unavailable,I-95 / I-66 Northern Virginia
+51510,Alexandria city,growth,34.914151510396394,Traffic data unavailable,I-95 / I-66 Northern Virginia
+51510,Alexandria city,purchasing_power,73.39420757656194,Traffic data unavailable,I-95 / I-66 Northern Virginia
+51510,Alexandria city,highway_opportunity,19.505727652899452,Traffic data unavailable,I-95 / I-66 Northern Virginia
+51510,Alexandria city,accessibility,98.20106079011913,Traffic data unavailable,I-95 / I-66 Northern Virginia
+51510,Alexandria city,commercial_activity,61.61300974935068,Traffic data unavailable,I-95 / I-66 Northern Virginia
+51510,Alexandria city,competition,92.51510532268627,Traffic data unavailable,I-95 / I-66 Northern Virginia
+51510,Alexandria city,overlap_risk,28.380234013412828,Traffic data unavailable,I-95 / I-66 Northern Virginia
+51520,Bristol city,market_demand,33.60469394968829,Traffic data unavailable,I-81 Bristol / Southwest
+51520,Bristol city,growth,38.51187801474552,Traffic data unavailable,I-81 Bristol / Southwest
+51520,Bristol city,purchasing_power,4.950974265393685,Traffic data unavailable,I-81 Bristol / Southwest
+51520,Bristol city,highway_opportunity,11.26132297737186,Traffic data unavailable,I-81 Bristol / Southwest
+51520,Bristol city,accessibility,99.10682544958256,Traffic data unavailable,I-81 Bristol / Southwest
+51520,Bristol city,commercial_activity,49.9483308552398,Traffic data unavailable,I-81 Bristol / Southwest
+51520,Bristol city,competition,53.12451049498746,Traffic data unavailable,I-81 Bristol / Southwest
+51520,Bristol city,overlap_risk,76.88450553610622,Traffic data unavailable,I-81 Bristol / Southwest
+51530,Buena Vista city,market_demand,19.098448303724602,Ineligible: no interstate access,Not in a screened corridor
+51530,Buena Vista city,growth,59.44773238629063,Ineligible: no interstate access,Not in a screened corridor
+51530,Buena Vista city,purchasing_power,12.282897714979873,Ineligible: no interstate access,Not in a screened corridor
+51530,Buena Vista city,highway_opportunity,0.0,Ineligible: no interstate access,Not in a screened corridor
+51530,Buena Vista city,accessibility,94.73062774381681,Ineligible: no interstate access,Not in a screened corridor
+51530,Buena Vista city,commercial_activity,12.424513195610238,Ineligible: no interstate access,Not in a screened corridor
+51530,Buena Vista city,competition,71.60213752772735,Ineligible: no interstate access,Not in a screened corridor
+51530,Buena Vista city,overlap_risk,40.709346631160194,Ineligible: no interstate access,Not in a screened corridor
+51540,Charlottesville city,market_demand,49.90639335991008,Traffic data unavailable,I-64 Charlottesville
+51540,Charlottesville city,growth,24.761716035896068,Traffic data unavailable,I-64 Charlottesville
+51540,Charlottesville city,purchasing_power,30.71414914009829,Traffic data unavailable,I-64 Charlottesville
+51540,Charlottesville city,highway_opportunity,17.46514363030064,Traffic data unavailable,I-64 Charlottesville
+51540,Charlottesville city,accessibility,97.06471763658277,Traffic data unavailable,I-64 Charlottesville
+51540,Charlottesville city,commercial_activity,86.8528747944678,Traffic data unavailable,I-64 Charlottesville
+51540,Charlottesville city,competition,83.62369084737878,Traffic data unavailable,I-64 Charlottesville
+51540,Charlottesville city,overlap_risk,26.92667394370277,Traffic data unavailable,I-64 Charlottesville
+51550,Chesapeake city,market_demand,76.86748833380813,Priority candidate,I-64 / I-264 Hampton Roads
+51550,Chesapeake city,growth,58.031808577774584,Priority candidate,I-64 / I-264 Hampton Roads
+51550,Chesapeake city,purchasing_power,39.496394174417816,Priority candidate,I-64 / I-264 Hampton Roads
+51550,Chesapeake city,highway_opportunity,58.02989423291155,Priority candidate,I-64 / I-264 Hampton Roads
+51550,Chesapeake city,accessibility,91.3042308872302,Priority candidate,I-64 / I-264 Hampton Roads
+51550,Chesapeake city,commercial_activity,60.725367582368726,Priority candidate,I-64 / I-264 Hampton Roads
+51550,Chesapeake city,competition,86.35595964743933,Priority candidate,I-64 / I-264 Hampton Roads
+51550,Chesapeake city,overlap_risk,56.8859501082285,Priority candidate,I-64 / I-264 Hampton Roads
+51570,Colonial Heights city,market_demand,35.60375225932462,Overlap constrained,I-95 Richmond South
+51570,Colonial Heights city,growth,55.117948458961365,Overlap constrained,I-95 Richmond South
+51570,Colonial Heights city,purchasing_power,26.68163136435934,Overlap constrained,I-95 Richmond South
+51570,Colonial Heights city,highway_opportunity,12.86792370826101,Overlap constrained,I-95 Richmond South
+51570,Colonial Heights city,accessibility,100.0,Overlap constrained,I-95 Richmond South
+51570,Colonial Heights city,commercial_activity,58.21721858137343,Overlap constrained,I-95 Richmond South
+51570,Colonial Heights city,competition,76.79983525535421,Overlap constrained,I-95 Richmond South
+51570,Colonial Heights city,overlap_risk,22.439569577695544,Overlap constrained,I-95 Richmond South
+51580,Covington city,market_demand,15.427006562862346,Traffic data unavailable,Not in a screened corridor
+51580,Covington city,growth,37.682320246564565,Traffic data unavailable,Not in a screened corridor
+51580,Covington city,purchasing_power,0.0,Traffic data unavailable,Not in a screened corridor
+51580,Covington city,highway_opportunity,2.533141637218614,Traffic data unavailable,Not in a screened corridor
+51580,Covington city,accessibility,99.34071020426722,Traffic data unavailable,Not in a screened corridor
+51580,Covington city,commercial_activity,30.318460505079383,Traffic data unavailable,Not in a screened corridor
+51580,Covington city,competition,58.61253159348733,Traffic data unavailable,Not in a screened corridor
+51580,Covington city,overlap_risk,58.45444935320107,Traffic data unavailable,Not in a screened corridor
+51590,Danville city,market_demand,47.24046696727117,Ineligible: no interstate access,Not in a screened corridor
+51590,Danville city,growth,41.12143473680265,Ineligible: no interstate access,Not in a screened corridor
+51590,Danville city,purchasing_power,2.4967971496197414,Ineligible: no interstate access,Not in a screened corridor
+51590,Danville city,highway_opportunity,17.48322471754075,Ineligible: no interstate access,Not in a screened corridor
+51590,Danville city,accessibility,44.412522864349526,Ineligible: no interstate access,Not in a screened corridor
+51590,Danville city,commercial_activity,53.73706527079118,Ineligible: no interstate access,Not in a screened corridor
+51590,Danville city,competition,66.65995880584295,Ineligible: no interstate access,Not in a screened corridor
+51590,Danville city,overlap_risk,29.981384084121007,Ineligible: no interstate access,Not in a screened corridor
+51595,Emporia city,market_demand,15.94950268214066,Traffic data unavailable,I-95 / I-85 Southside
+51595,Emporia city,growth,65.02581260475014,Traffic data unavailable,I-95 / I-85 Southside
+51595,Emporia city,purchasing_power,4.357087567966854,Traffic data unavailable,I-95 / I-85 Southside
+51595,Emporia city,highway_opportunity,0.35814128722974903,Traffic data unavailable,I-95 / I-85 Southside
+51595,Emporia city,accessibility,98.59216964971341,Traffic data unavailable,I-95 / I-85 Southside
+51595,Emporia city,commercial_activity,42.39405443397714,Traffic data unavailable,I-95 / I-85 Southside
+51595,Emporia city,competition,0.0,Traffic data unavailable,I-95 / I-85 Southside
+51595,Emporia city,overlap_risk,52.19695986729839,Traffic data unavailable,I-95 / I-85 Southside
+51600,Fairfax city,market_demand,39.598962627001114,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51600,Fairfax city,growth,44.65201772638811,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51600,Fairfax city,purchasing_power,72.07815947169922,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51600,Fairfax city,highway_opportunity,16.881927055069582,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51600,Fairfax city,accessibility,98.18464247166146,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51600,Fairfax city,commercial_activity,100.0,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51600,Fairfax city,competition,82.74062423400606,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51600,Fairfax city,overlap_risk,25.912185847998114,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51610,Falls Church city,market_demand,31.05176948330817,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51610,Falls Church city,growth,50.67962457380973,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51610,Falls Church city,purchasing_power,98.78945256805888,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51610,Falls Church city,highway_opportunity,6.364636511697518,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51610,Falls Church city,accessibility,98.96389349211519,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51610,Falls Church city,commercial_activity,90.79800925759866,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51610,Falls Church city,competition,80.69965051737134,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51610,Falls Church city,overlap_risk,29.611665246687373,Ineligible: no interstate access,I-95 / I-66 Northern Virginia
+51620,Franklin city,market_demand,22.878073288300605,Ineligible: no interstate access,Not in a screened corridor
+51620,Franklin city,growth,47.26299934126263,Ineligible: no interstate access,Not in a screened corridor
+51620,Franklin city,purchasing_power,16.60320328100922,Ineligible: no interstate access,Not in a screened corridor
+51620,Franklin city,highway_opportunity,3.632826970130303,Ineligible: no interstate access,Not in a screened corridor
+51620,Franklin city,accessibility,54.300790989275676,Ineligible: no interstate access,Not in a screened corridor
+51620,Franklin city,commercial_activity,36.49800761951661,Ineligible: no interstate access,Not in a screened corridor
+51620,Franklin city,competition,48.55394544568923,Ineligible: no interstate access,Not in a screened corridor
+51620,Franklin city,overlap_risk,46.76038666766789,Ineligible: no interstate access,Not in a screened corridor
+51630,Fredericksburg city,market_demand,42.817751393295254,Overlap constrained,I-95 Fredericksburg / Stafford
+51630,Fredericksburg city,growth,38.22669423463514,Overlap constrained,I-95 Fredericksburg / Stafford
+51630,Fredericksburg city,purchasing_power,37.0473109159678,Overlap constrained,I-95 Fredericksburg / Stafford
+51630,Fredericksburg city,highway_opportunity,16.752912654440838,Overlap constrained,I-95 Fredericksburg / Stafford
+51630,Fredericksburg city,accessibility,98.61485041688374,Overlap constrained,I-95 Fredericksburg / Stafford
+51630,Fredericksburg city,commercial_activity,84.63463272085521,Overlap constrained,I-95 Fredericksburg / Stafford
+51630,Fredericksburg city,competition,81.80747865506346,Overlap constrained,I-95 Fredericksburg / Stafford
+51630,Fredericksburg city,overlap_risk,6.673266122560594,Overlap constrained,I-95 Fredericksburg / Stafford
+51640,Galax city,market_demand,19.64207536971286,Ineligible: no interstate access,Not in a screened corridor
+51640,Galax city,growth,41.35454078870923,Ineligible: no interstate access,Not in a screened corridor
+51640,Galax city,purchasing_power,4.605024822591659,Ineligible: no interstate access,Not in a screened corridor
+51640,Galax city,highway_opportunity,7.606323180479014,Ineligible: no interstate access,Not in a screened corridor
+51640,Galax city,accessibility,85.2925915058639,Ineligible: no interstate access,Not in a screened corridor
+51640,Galax city,commercial_activity,52.34275402521311,Ineligible: no interstate access,Not in a screened corridor
+51640,Galax city,competition,43.933512491290934,Ineligible: no interstate access,Not in a screened corridor
+51640,Galax city,overlap_risk,82.40974139098483,Ineligible: no interstate access,Not in a screened corridor
+51650,Hampton city,market_demand,67.69631683129822,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51650,Hampton city,growth,41.225197796566576,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51650,Hampton city,purchasing_power,21.427463510026016,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51650,Hampton city,highway_opportunity,22.26368584107099,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51650,Hampton city,accessibility,97.73615951122692,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51650,Hampton city,commercial_activity,49.260659616518026,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51650,Hampton city,competition,86.66954286629677,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51650,Hampton city,overlap_risk,38.55984706776899,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51660,Harrisonburg city,market_demand,51.77687026782573,Overlap constrained,I-81 Harrisonburg / Rockingham
+51660,Harrisonburg city,growth,25.918838425771998,Overlap constrained,I-81 Harrisonburg / Rockingham
+51660,Harrisonburg city,purchasing_power,11.184981232672822,Overlap constrained,I-81 Harrisonburg / Rockingham
+51660,Harrisonburg city,highway_opportunity,16.6047227615875,Overlap constrained,I-81 Harrisonburg / Rockingham
+51660,Harrisonburg city,accessibility,99.62538299825697,Overlap constrained,I-81 Harrisonburg / Rockingham
+51660,Harrisonburg city,commercial_activity,62.26270165468462,Overlap constrained,I-81 Harrisonburg / Rockingham
+51660,Harrisonburg city,competition,80.8557640021751,Overlap constrained,I-81 Harrisonburg / Rockingham
+51660,Harrisonburg city,overlap_risk,5.049616373080692,Overlap constrained,I-81 Harrisonburg / Rockingham
+51670,Hopewell city,market_demand,38.26208583609109,Overlap constrained,Not in a screened corridor
+51670,Hopewell city,growth,44.31183629003602,Overlap constrained,Not in a screened corridor
+51670,Hopewell city,purchasing_power,4.765796058132402,Overlap constrained,Not in a screened corridor
+51670,Hopewell city,highway_opportunity,9.781509366664727,Overlap constrained,Not in a screened corridor
+51670,Hopewell city,accessibility,97.42830657880694,Overlap constrained,Not in a screened corridor
+51670,Hopewell city,commercial_activity,29.40920470659412,Overlap constrained,Not in a screened corridor
+51670,Hopewell city,competition,79.5407659228266,Overlap constrained,Not in a screened corridor
+51670,Hopewell city,overlap_risk,17.94472088856052,Overlap constrained,Not in a screened corridor
+51678,Lexington city,market_demand,19.510727210372387,Ineligible: no interstate access,I-81 Roanoke / Salem
+51678,Lexington city,growth,89.22229911165647,Ineligible: no interstate access,I-81 Roanoke / Salem
+51678,Lexington city,purchasing_power,27.987573154182698,Ineligible: no interstate access,I-81 Roanoke / Salem
+51678,Lexington city,highway_opportunity,1.1343723394484866,Ineligible: no interstate access,I-81 Roanoke / Salem
+51678,Lexington city,accessibility,97.09592616040482,Ineligible: no interstate access,I-81 Roanoke / Salem
+51678,Lexington city,commercial_activity,49.54136333318407,Ineligible: no interstate access,I-81 Roanoke / Salem
+51678,Lexington city,competition,100.00000000000001,Ineligible: no interstate access,I-81 Roanoke / Salem
+51678,Lexington city,overlap_risk,40.34395566805484,Ineligible: no interstate access,I-81 Roanoke / Salem
+51680,Lynchburg city,market_demand,58.17598286276691,Ineligible: no interstate access,Not in a screened corridor
+51680,Lynchburg city,growth,36.03880518228107,Ineligible: no interstate access,Not in a screened corridor
+51680,Lynchburg city,purchasing_power,12.669808920205114,Ineligible: no interstate access,Not in a screened corridor
+51680,Lynchburg city,highway_opportunity,21.759295090376174,Ineligible: no interstate access,Not in a screened corridor
+51680,Lynchburg city,accessibility,60.07392198195601,Ineligible: no interstate access,Not in a screened corridor
+51680,Lynchburg city,commercial_activity,60.06390098744073,Ineligible: no interstate access,Not in a screened corridor
+51680,Lynchburg city,competition,85.19283746556474,Ineligible: no interstate access,Not in a screened corridor
+51680,Lynchburg city,overlap_risk,56.12873887402268,Ineligible: no interstate access,Not in a screened corridor
+51683,Manassas city,market_demand,49.42423531074283,Overlap constrained,I-95 / I-66 Northern Virginia
+51683,Manassas city,growth,55.37915355755253,Overlap constrained,I-95 / I-66 Northern Virginia
+51683,Manassas city,purchasing_power,52.021947945243284,Overlap constrained,I-95 / I-66 Northern Virginia
+51683,Manassas city,highway_opportunity,16.232383798364086,Overlap constrained,I-95 / I-66 Northern Virginia
+51683,Manassas city,accessibility,93.70189319867742,Overlap constrained,I-95 / I-66 Northern Virginia
+51683,Manassas city,commercial_activity,54.898529155454774,Overlap constrained,I-95 / I-66 Northern Virginia
+51683,Manassas city,competition,87.89993126181437,Overlap constrained,I-95 / I-66 Northern Virginia
+51683,Manassas city,overlap_risk,18.89137759814321,Overlap constrained,I-95 / I-66 Northern Virginia
+51685,Manassas Park city,market_demand,35.83143208087142,Overlap constrained,I-95 / I-66 Northern Virginia
+51685,Manassas Park city,growth,48.19720476511413,Overlap constrained,I-95 / I-66 Northern Virginia
+51685,Manassas Park city,purchasing_power,42.586807056672775,Overlap constrained,I-95 / I-66 Northern Virginia
+51685,Manassas Park city,highway_opportunity,3.7318171085292238,Overlap constrained,I-95 / I-66 Northern Virginia
+51685,Manassas Park city,accessibility,94.41844301937005,Overlap constrained,I-95 / I-66 Northern Virginia
+51685,Manassas Park city,commercial_activity,18.403275004877788,Overlap constrained,I-95 / I-66 Northern Virginia
+51685,Manassas Park city,competition,80.58313143847622,Overlap constrained,I-95 / I-66 Northern Virginia
+51685,Manassas Park city,overlap_risk,20.19310860544507,Overlap constrained,I-95 / I-66 Northern Virginia
+51690,Martinsville city,market_demand,29.81863158978188,Ineligible: no interstate access,Not in a screened corridor
+51690,Martinsville city,growth,51.592716733512354,Ineligible: no interstate access,Not in a screened corridor
+51690,Martinsville city,purchasing_power,3.2500442694268585,Ineligible: no interstate access,Not in a screened corridor
+51690,Martinsville city,highway_opportunity,10.573136692266877,Ineligible: no interstate access,Not in a screened corridor
+51690,Martinsville city,accessibility,53.13065188230358,Ineligible: no interstate access,Not in a screened corridor
+51690,Martinsville city,commercial_activity,43.175442228215026,Ineligible: no interstate access,Not in a screened corridor
+51690,Martinsville city,competition,79.26604829210837,Ineligible: no interstate access,Not in a screened corridor
+51690,Martinsville city,overlap_risk,43.74649780432516,Ineligible: no interstate access,Not in a screened corridor
+51700,Newport News city,market_demand,72.28603377114354,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51700,Newport News city,growth,47.499123119757726,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51700,Newport News city,purchasing_power,21.40320578699819,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51700,Newport News city,highway_opportunity,24.624627612976095,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51700,Newport News city,accessibility,98.39194566134167,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51700,Newport News city,commercial_activity,57.159141217716524,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51700,Newport News city,competition,85.5192018357561,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51700,Newport News city,overlap_risk,31.4079778407541,Traffic data unavailable,I-64 / I-264 Hampton Roads
+51710,Norfolk city,market_demand,76.68335539626588,Feasibility constrained,I-64 / I-264 Hampton Roads
+51710,Norfolk city,growth,21.300786456664316,Feasibility constrained,I-64 / I-264 Hampton Roads
+51710,Norfolk city,purchasing_power,20.038369375027123,Feasibility constrained,I-64 / I-264 Hampton Roads
+51710,Norfolk city,highway_opportunity,72.72875473784171,Feasibility constrained,I-64 / I-264 Hampton Roads
+51710,Norfolk city,accessibility,98.94201576177642,Feasibility constrained,I-64 / I-264 Hampton Roads
+51710,Norfolk city,commercial_activity,64.7392881891334,Feasibility constrained,I-64 / I-264 Hampton Roads
+51710,Norfolk city,competition,87.61733968127004,Feasibility constrained,I-64 / I-264 Hampton Roads
+51710,Norfolk city,overlap_risk,48.49484395938908,Feasibility constrained,I-64 / I-264 Hampton Roads
+51720,Norton city,market_demand,8.416162002819453,Ineligible: no interstate access,Not in a screened corridor
+51720,Norton city,growth,4.0318650925108175,Ineligible: no interstate access,Not in a screened corridor
+51720,Norton city,purchasing_power,0.022190318682602773,Ineligible: no interstate access,Not in a screened corridor
+51720,Norton city,highway_opportunity,0.9246584277717653,Ineligible: no interstate access,Not in a screened corridor
+51720,Norton city,accessibility,62.99290906541402,Ineligible: no interstate access,Not in a screened corridor
+51720,Norton city,commercial_activity,55.85891390687998,Ineligible: no interstate access,Not in a screened corridor
+51720,Norton city,competition,48.13075506445672,Ineligible: no interstate access,Not in a screened corridor
+51720,Norton city,overlap_risk,71.39543757905368,Ineligible: no interstate access,Not in a screened corridor
+51730,Petersburg city,market_demand,44.481825861739146,Overlap constrained,I-95 Richmond South
+51730,Petersburg city,growth,59.792721182544796,Overlap constrained,I-95 Richmond South
+51730,Petersburg city,purchasing_power,7.89384166799656,Overlap constrained,I-95 Richmond South
+51730,Petersburg city,highway_opportunity,13.53196931024406,Overlap constrained,I-95 Richmond South
+51730,Petersburg city,accessibility,98.89071682527903,Overlap constrained,I-95 Richmond South
+51730,Petersburg city,commercial_activity,36.820248786430554,Overlap constrained,I-95 Richmond South
+51730,Petersburg city,competition,70.45481792297316,Overlap constrained,I-95 Richmond South
+51730,Petersburg city,overlap_risk,24.484470826921697,Overlap constrained,I-95 Richmond South
+51735,Poquoson city,market_demand,30.231246374499136,Ineligible: no interstate access,Not in a screened corridor
+51735,Poquoson city,growth,53.08093491406252,Ineligible: no interstate access,Not in a screened corridor
+51735,Poquoson city,purchasing_power,57.06105059109975,Ineligible: no interstate access,Not in a screened corridor
+51735,Poquoson city,highway_opportunity,2.8526449612686657,Ineligible: no interstate access,Not in a screened corridor
+51735,Poquoson city,accessibility,90.67455060237837,Ineligible: no interstate access,Not in a screened corridor
+51735,Poquoson city,commercial_activity,24.473287775940964,Ineligible: no interstate access,Not in a screened corridor
+51735,Poquoson city,competition,100.00000000000001,Ineligible: no interstate access,Not in a screened corridor
+51735,Poquoson city,overlap_risk,36.07907427010635,Ineligible: no interstate access,Not in a screened corridor
+51740,Portsmouth city,market_demand,61.801695582033084,Feasibility constrained,I-64 / I-264 Hampton Roads
+51740,Portsmouth city,growth,42.31785090089899,Feasibility constrained,I-64 / I-264 Hampton Roads
+51740,Portsmouth city,purchasing_power,14.328811248621067,Feasibility constrained,I-64 / I-264 Hampton Roads
+51740,Portsmouth city,highway_opportunity,41.419938504191954,Feasibility constrained,I-64 / I-264 Hampton Roads
+51740,Portsmouth city,accessibility,97.02787399233016,Feasibility constrained,I-64 / I-264 Hampton Roads
+51740,Portsmouth city,commercial_activity,43.432599087730964,Feasibility constrained,I-64 / I-264 Hampton Roads
+51740,Portsmouth city,competition,84.56167757804978,Feasibility constrained,I-64 / I-264 Hampton Roads
+51740,Portsmouth city,overlap_risk,47.635186224559476,Feasibility constrained,I-64 / I-264 Hampton Roads
+51750,Radford city,market_demand,34.44787459892873,Traffic data unavailable,I-81 New River Valley
+51750,Radford city,growth,17.202886900986382,Traffic data unavailable,I-81 New River Valley
+51750,Radford city,purchasing_power,5.7962607520850025,Traffic data unavailable,I-81 New River Valley
+51750,Radford city,highway_opportunity,6.472506315220902,Traffic data unavailable,I-81 New River Valley
+51750,Radford city,accessibility,97.55125038345032,Traffic data unavailable,I-81 New River Valley
+51750,Radford city,commercial_activity,31.61349411723598,Traffic data unavailable,I-81 New River Valley
+51750,Radford city,competition,85.77956174896495,Traffic data unavailable,I-81 New River Valley
+51750,Radford city,overlap_risk,84.0194332119077,Traffic data unavailable,I-81 New River Valley
+51760,Richmond city,market_demand,75.42236314058896,Overlap constrained,I-95 Richmond North
+51760,Richmond city,growth,47.182473457613625,Overlap constrained,I-95 Richmond North
+51760,Richmond city,purchasing_power,24.225071541970816,Overlap constrained,I-95 Richmond North
+51760,Richmond city,highway_opportunity,25.125885463695898,Overlap constrained,I-95 Richmond North
+51760,Richmond city,accessibility,97.82066095238197,Overlap constrained,I-95 Richmond North
+51760,Richmond city,commercial_activity,70.3573896420353,Overlap constrained,I-95 Richmond North
+51760,Richmond city,competition,87.21244608478511,Overlap constrained,I-95 Richmond North
+51760,Richmond city,overlap_risk,21.71635274700332,Overlap constrained,I-95 Richmond North
+51770,Roanoke city,market_demand,61.82014313803454,Traffic data unavailable,I-81 Roanoke / Salem
+51770,Roanoke city,growth,31.987045700180502,Traffic data unavailable,I-81 Roanoke / Salem
+51770,Roanoke city,purchasing_power,12.55074929014715,Traffic data unavailable,I-81 Roanoke / Salem
+51770,Roanoke city,highway_opportunity,21.384381453737173,Traffic data unavailable,I-81 Roanoke / Salem
+51770,Roanoke city,accessibility,98.26782713004984,Traffic data unavailable,I-81 Roanoke / Salem
+51770,Roanoke city,commercial_activity,59.875424634207306,Traffic data unavailable,I-81 Roanoke / Salem
+51770,Roanoke city,competition,87.6315318328148,Traffic data unavailable,I-81 Roanoke / Salem
+51770,Roanoke city,overlap_risk,75.9520580850539,Traffic data unavailable,I-81 Roanoke / Salem
+51775,Salem city,market_demand,41.07934150416318,Traffic data unavailable,I-81 Roanoke / Salem
+51775,Salem city,growth,33.352569586775054,Traffic data unavailable,I-81 Roanoke / Salem
+51775,Salem city,purchasing_power,21.86634139707372,Traffic data unavailable,I-81 Roanoke / Salem
+51775,Salem city,highway_opportunity,13.364071504495879,Traffic data unavailable,I-81 Roanoke / Salem
+51775,Salem city,accessibility,97.53944769012533,Traffic data unavailable,I-81 Roanoke / Salem
+51775,Salem city,commercial_activity,50.92906801621857,Traffic data unavailable,I-81 Roanoke / Salem
+51775,Salem city,competition,79.73237299001715,Traffic data unavailable,I-81 Roanoke / Salem
+51775,Salem city,overlap_risk,78.26493482876809,Traffic data unavailable,I-81 Roanoke / Salem
+51790,Staunton city,market_demand,41.12786376548947,Overlap constrained,I-81 Harrisonburg / Rockingham
+51790,Staunton city,growth,58.87165242876086,Overlap constrained,I-81 Harrisonburg / Rockingham
+51790,Staunton city,purchasing_power,18.26903836607551,Overlap constrained,I-81 Harrisonburg / Rockingham
+51790,Staunton city,highway_opportunity,10.443451700027081,Overlap constrained,I-81 Harrisonburg / Rockingham
+51790,Staunton city,accessibility,96.12517652526462,Overlap constrained,I-81 Harrisonburg / Rockingham
+51790,Staunton city,commercial_activity,46.31674923698977,Overlap constrained,I-81 Harrisonburg / Rockingham
+51790,Staunton city,competition,81.78083964033897,Overlap constrained,I-81 Harrisonburg / Rockingham
+51790,Staunton city,overlap_risk,12.59975322873286,Overlap constrained,I-81 Harrisonburg / Rockingham
+51800,Suffolk city,market_demand,61.97920656256121,Priority candidate,I-64 / I-264 Hampton Roads
+51800,Suffolk city,growth,69.78679394907542,Priority candidate,I-64 / I-264 Hampton Roads
+51800,Suffolk city,purchasing_power,38.40680565950103,Priority candidate,I-64 / I-264 Hampton Roads
+51800,Suffolk city,highway_opportunity,46.96453182362548,Priority candidate,I-64 / I-264 Hampton Roads
+51800,Suffolk city,accessibility,78.72721957178639,Priority candidate,I-64 / I-264 Hampton Roads
+51800,Suffolk city,commercial_activity,45.198490463300026,Priority candidate,I-64 / I-264 Hampton Roads
+51800,Suffolk city,competition,84.9418275764537,Priority candidate,I-64 / I-264 Hampton Roads
+51800,Suffolk city,overlap_risk,48.85600613965415,Priority candidate,I-64 / I-264 Hampton Roads
+51810,Virginia Beach city,market_demand,86.70657029843491,Priority candidate,I-64 / I-264 Hampton Roads
+51810,Virginia Beach city,growth,41.611740956489854,Priority candidate,I-64 / I-264 Hampton Roads
+51810,Virginia Beach city,purchasing_power,40.29377315330692,Priority candidate,I-64 / I-264 Hampton Roads
+51810,Virginia Beach city,highway_opportunity,77.84213257193076,Priority candidate,I-64 / I-264 Hampton Roads
+51810,Virginia Beach city,accessibility,88.75649194307756,Priority candidate,I-64 / I-264 Hampton Roads
+51810,Virginia Beach city,commercial_activity,74.53267065870071,Priority candidate,I-64 / I-264 Hampton Roads
+51810,Virginia Beach city,competition,89.72978373655738,Priority candidate,I-64 / I-264 Hampton Roads
+51810,Virginia Beach city,overlap_risk,62.05032439405205,Priority candidate,I-64 / I-264 Hampton Roads
+51820,Waynesboro city,market_demand,39.25391231884517,Overlap constrained,I-81 Harrisonburg / Rockingham
+51820,Waynesboro city,growth,47.423219019252876,Overlap constrained,I-81 Harrisonburg / Rockingham
+51820,Waynesboro city,purchasing_power,12.414123301683,Overlap constrained,I-81 Harrisonburg / Rockingham
+51820,Waynesboro city,highway_opportunity,11.684493566550076,Overlap constrained,I-81 Harrisonburg / Rockingham
+51820,Waynesboro city,accessibility,97.96115603652262,Overlap constrained,I-81 Harrisonburg / Rockingham
+51820,Waynesboro city,commercial_activity,44.23108759669187,Overlap constrained,I-81 Harrisonburg / Rockingham
+51820,Waynesboro city,competition,72.96705649567349,Overlap constrained,I-81 Harrisonburg / Rockingham
+51820,Waynesboro city,overlap_risk,16.382247460026754,Overlap constrained,I-81 Harrisonburg / Rockingham
+51830,Williamsburg city,market_demand,31.307611580748613,Overlap constrained,Not in a screened corridor
+51830,Williamsburg city,growth,56.8467450618245,Overlap constrained,Not in a screened corridor
+51830,Williamsburg city,purchasing_power,21.88636162392398,Overlap constrained,Not in a screened corridor
+51830,Williamsburg city,highway_opportunity,8.62492752719189,Overlap constrained,Not in a screened corridor
+51830,Williamsburg city,accessibility,96.3243059280626,Overlap constrained,Not in a screened corridor
+51830,Williamsburg city,commercial_activity,85.2754188915901,Overlap constrained,Not in a screened corridor
+51830,Williamsburg city,competition,78.8877109569091,Overlap constrained,Not in a screened corridor
+51830,Williamsburg city,overlap_risk,18.539701885557285,Overlap constrained,Not in a screened corridor
+51840,Winchester city,market_demand,42.301706013101324,Traffic data unavailable,I-81 Winchester / Frederick
+51840,Winchester city,growth,37.69442642452706,Traffic data unavailable,I-81 Winchester / Frederick
+51840,Winchester city,purchasing_power,19.38212242891734,Traffic data unavailable,I-81 Winchester / Frederick
+51840,Winchester city,highway_opportunity,12.473015474378355,Traffic data unavailable,I-81 Winchester / Frederick
+51840,Winchester city,accessibility,98.13705545868504,Traffic data unavailable,I-81 Winchester / Frederick
+51840,Winchester city,commercial_activity,68.1909251133353,Traffic data unavailable,I-81 Winchester / Frederick
+51840,Winchester city,competition,73.15797624578583,Traffic data unavailable,I-81 Winchester / Frederick
+51840,Winchester city,overlap_risk,54.060368575705326,Traffic data unavailable,I-81 Winchester / Frederick

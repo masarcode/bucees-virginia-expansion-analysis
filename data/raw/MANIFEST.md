@@ -1,0 +1,33 @@
+# Raw Data Manifest
+
+Every file in `data/raw/` is recorded here at download time and is **never
+modified** after download. All cleaning happens downstream in
+`data/interim/` and `data/processed/`.
+
+| File | Source | URL | Accessed (UTC) | Size | Rows/Features | Notes |
+|---|---|---|---|---|---|---|
+| cb_2023_us_county_500k.zip | US Census TIGER/Line | https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_county_500k.zip | 2026-08-04 01:15 | 11.6 MB | 3235 features | counties; CRS=EPSG:4269 |
+| tl_2023_us_primaryroads.zip | US Census TIGER/Line | https://www2.census.gov/geo/tiger/TIGER2023/PRIMARYROADS/tl_2023_us_primaryroads.zip | 2026-08-04 01:15 | 38.2 MB | 17458 features | primary_roads; CRS=EPSG:4269 |
+| acsdt5y2023-b01002.dat | ACS 2019-2023 5yr table-based SF | https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b01002.dat | 2026-08-04 01:15 | 26.7 MB | 543541 rows | table B01002 |
+| acsdt5y2023-b01003.dat | ACS 2019-2023 5yr table-based SF | https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b01003.dat | 2026-08-04 01:15 | 18.3 MB | 616634 rows | table B01003 |
+| acsdt5y2023-b08303.dat | ACS 2019-2023 5yr table-based SF | https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b08303.dat | 2026-08-04 01:16 | 64.2 MB | 616634 rows | table B08303 |
+| acsdt5y2023-b11001.dat | ACS 2019-2023 5yr table-based SF | https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b11001.dat | 2026-08-04 01:16 | 45.8 MB | 543541 rows | table B11001 |
+| acsdt5y2023-b19013.dat | ACS 2019-2023 5yr table-based SF | https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b19013.dat | 2026-08-04 01:16 | 17.9 MB | 543541 rows | table B19013 |
+| acsdt5y2023-b19301.dat | ACS 2019-2023 5yr table-based SF | https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b19301.dat | 2026-08-04 01:16 | 17.1 MB | 540563 rows | table B19301 |
+| acsdt5y2023-b23025.dat | ACS 2019-2023 5yr table-based SF | https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b23025.dat | 2026-08-04 01:16 | 39.9 MB | 543541 rows | table B23025 |
+| acsdt5y2023-b25077.dat | ACS 2019-2023 5yr table-based SF | https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-b25077.dat | 2026-08-04 01:16 | 18.5 MB | 543541 rows | table B25077 |
+| 20185va0003000.zip | ACS 2014-2018 5yr sequence file (VA) | https://www2.census.gov/programs-surveys/acs/summary_file/2018/data/5_year_seq_by_state/Virginia/All_Geographies_Not_Tracts_Block_Groups/20185va0003000.zip | 2026-08-04 01:16 | 1.0 MB | - | sequence 3: tables ['B01002', 'B01003'] |
+| 20185va0028000.zip | ACS 2014-2018 5yr sequence file (VA) | https://www2.census.gov/programs-surveys/acs/summary_file/2018/data/5_year_seq_by_state/Virginia/All_Geographies_Not_Tracts_Block_Groups/20185va0028000.zip | 2026-08-04 01:16 | 1.9 MB | - | sequence 28: tables ['B08303'] |
+| 20185va0036000.zip | ACS 2014-2018 5yr sequence file (VA) | https://www2.census.gov/programs-surveys/acs/summary_file/2018/data/5_year_seq_by_state/Virginia/All_Geographies_Not_Tracts_Block_Groups/20185va0036000.zip | 2026-08-04 01:16 | 1.6 MB | - | sequence 36: tables ['B11001'] |
+| 20185va0059000.zip | ACS 2014-2018 5yr sequence file (VA) | https://www2.census.gov/programs-surveys/acs/summary_file/2018/data/5_year_seq_by_state/Virginia/All_Geographies_Not_Tracts_Block_Groups/20185va0059000.zip | 2026-08-04 01:16 | 1.4 MB | - | sequence 59: tables ['B19013'] |
+| 20185va0065000.zip | ACS 2014-2018 5yr sequence file (VA) | https://www2.census.gov/programs-surveys/acs/summary_file/2018/data/5_year_seq_by_state/Virginia/All_Geographies_Not_Tracts_Block_Groups/20185va0065000.zip | 2026-08-04 01:16 | 1.7 MB | - | sequence 65: tables ['B19301'] |
+| 20185va0079000.zip | ACS 2014-2018 5yr sequence file (VA) | https://www2.census.gov/programs-surveys/acs/summary_file/2018/data/5_year_seq_by_state/Virginia/All_Geographies_Not_Tracts_Block_Groups/20185va0079000.zip | 2026-08-04 01:16 | 1.1 MB | - | sequence 79: tables ['B23025'] |
+| 20185va0115000.zip | ACS 2014-2018 5yr sequence file (VA) | https://www2.census.gov/programs-surveys/acs/summary_file/2018/data/5_year_seq_by_state/Virginia/All_Geographies_Not_Tracts_Block_Groups/20185va0115000.zip | 2026-08-04 01:16 | 1.7 MB | - | sequence 115: tables ['B25077'] |
+| g20185va.csv | ACS 2014-2018 5yr geography file (VA) | https://www2.census.gov/programs-surveys/acs/summary_file/2018/data/5_year_seq_by_state/Virginia/All_Geographies_Not_Tracts_Block_Groups/g20185va.csv | 2026-08-04 01:16 | 1.9 MB | 12051 rows | no header; positional layout |
+| ACS_5yr_Seq_Table_Number_Lookup.txt | ACS 2018 table/sequence lookup | https://www2.census.gov/programs-surveys/acs/summary_file/2018/documentation/user_tools/ACS_5yr_Seq_Table_Number_Lookup.txt | 2026-08-04 01:16 | 1.6 MB | 29456 rows |  |
+| cbp23co.zip | US Census County Business Patterns 2023 | https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23co.zip | 2026-08-04 01:16 | 12.9 MB | 1100961 rows | complete US county file; NAICS2017 basis |
+| vdot/page_*.json | VDOT Traffic Volume 2024 (ArcGIS) | https://services.arcgis.com/p5v98VHDX9Atv3l7/arcgis/rest/services/VDOT_Traffic_Volume_2024/FeatureServer/0 | 2026-08-04 01:17 | 138.2 MB | 123766 segments over 62 pages | attributes only; ADT/AAWDT; EPSG:3857 Shape__Length (m) |
+| bucees/bucees_locations.csv | Compiled: buc-ees.com/locations + cited news | https://buc-ees.com/locations/ | 2026-08-04 01:18 | 0.0 MB | 20 locations | east-of-Mississippi scope; Nominatim geocoded (raw responses kept) |
+| cb_2023_51_place_500k.zip | US Census TIGER/Line | https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_51_place_500k.zip | 2026-08-04 20:49 | 0.4 MB | 688 features | va_places; CRS=EPSG:4269 |
+| cpi/cu.data.1.AllItems | BLS CPI-U all items (CUUR0000SA0) | https://download.bls.gov/pub/time.series/cu/cu.data.1.AllItems | 2026-08-05 21:24 | 2.7 MB | 63888 rows | annual averages M13; 2018=251.107, 2023=304.702 |
+| vdot_maintenance/segments.geojson | VDOT Traffic Volume 2024, maintenance-area segments with geometry | https://services.arcgis.com/p5v98VHDX9Atv3l7/arcgis/rest/services/VDOT_Traffic_Volume_2024/FeatureServer/0 | 2026-08-05 21:43 | 1.1 MB | 556 segments | geometry fetched to resolve legacy maintenance areas to cities |

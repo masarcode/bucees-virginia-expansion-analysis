@@ -1,0 +1,10 @@
+region,counties,population,pop_growth_pct,max_interstate_aadt,best_balanced_rank,counties_in_top15,counties_in_top25,mean_top3_score,min_dist_any_bucees_mi,top_counties
+Northern Virginia,9,2547100,3.3,254000.0,1,4,5,76.62624056654279,19.77779044782693,"Fairfax, Prince William, Arlington"
+Hampton Roads,20,1783424,2.35,195000.0,4,4,6,67.50467902582993,16.79209523719586,"Virginia Beach city, Chesapeake city, Norfolk city"
+Richmond,18,1365506,5.32,160000.0,6,3,7,66.01021686806399,0.544956441795801,"Chesterfield, Henrico, Hanover"
+Fredericksburg,15,536510,7.34,260000.0,5,2,2,61.79919778177853,0.27121202383091797,"Stafford, Spotsylvania, Caroline"
+Salem,17,693931,0.27,78000.0,15,1,2,54.83201333196018,52.648363626970855,"Roanoke, Montgomery, Roanoke city"
+Culpeper,10,433218,5.73,56000.0,16,0,2,54.395980746542534,25.30742196053764,"Albemarle, Fauquier, Louisa"
+Staunton,18,571794,3.93,72000.0,14,1,1,53.93751021243418,6.317056504766619,"Frederick, Rockingham, Augusta"
+Bristol,14,332513,-4.69,63000.0,30,0,0,47.45591160812041,56.91906566253336,"Washington, Wythe, Smyth"
+Lynchburg,12,393503,-0.93,,49,0,0,41.19597805256777,36.167559806229065,"Lynchburg city, Campbell, Amherst"

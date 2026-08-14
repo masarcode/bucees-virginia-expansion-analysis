@@ -1,0 +1,16 @@
+corridor,counties,eligible_counties,population,best_attractiveness_rank,best_county,best_eligible_county,best_eligible_rank,max_interstate_aadt,eligible_max_interstate_aadt,eligible_min_dist_bucees_mi,corridor_min_dist_bucees_mi,has_reference_case,n_priority,top_eligible,corridor_tier
+I-64 / I-264 Hampton Roads,10,3,1649381,4,Virginia Beach city,Virginia Beach city,4,195000.0,195000.0,58.8,16.8,False,3,"Virginia Beach city, Chesapeake city, Suffolk city",Candidate corridor
+I-95 Richmond South,5,2,494141,6,Chesterfield County,Chesterfield County,6,131000.0,131000.0,33.4,24.8,False,1,"Chesterfield, Dinwiddie",Candidate corridor
+I-95 Richmond North,3,1,673681,7,Henrico County,Hanover County,12,160000.0,131000.0,32.5,22.5,False,1,Hanover,Candidate corridor
+I-81 Winchester / Frederick,5,3,222130,14,Frederick County,Frederick County,14,72000.0,72000.0,39.7,39.7,False,1,"Frederick, Warren, Shenandoah",Candidate corridor
+I-81 Roanoke / Salem,7,3,365074,15,Roanoke County,Roanoke County,15,78000.0,78000.0,46.9,46.9,False,1,"Roanoke, Botetourt, Rockbridge",Candidate corridor
+I-64 Charlottesville,4,1,202087,16,Albemarle County,Albemarle County,16,55000.0,55000.0,30.5,30.5,False,1,Albemarle,Candidate corridor
+I-64 Richmond West,2,2,64625,18,Goochland County,Goochland County,18,81000.0,81000.0,40.9,40.9,False,1,"Goochland, Louisa",Candidate corridor
+I-81 New River Valley,5,3,194264,21,Montgomery County,Montgomery County,21,61000.0,61000.0,97.3,97.3,False,0,"Montgomery, Pulaski, Wythe",Watchlist corridor
+I-81 Bristol / Southwest,5,2,147661,30,Washington County,Washington County,30,63000.0,63000.0,105.7,75.8,False,0,"Washington, Smyth",Watchlist corridor
+I-95 / I-85 Southside,4,3,63236,68,Mecklenburg County,Mecklenburg County,68,43000.0,43000.0,64.6,62.8,False,0,"Mecklenburg, Brunswick, Greensville",Watchlist corridor
+I-64 Richmond East / New Kent,2,0,30825,25,New Kent County,none,,72000.0,,,0.5,True,0,none,Company-selected reference market
+I-81 Harrisonburg / Rockingham,6,0,286033,28,Rockingham County,none,,69000.0,,,6.3,True,0,none,Company-selected reference market
+I-95 Fredericksburg / Stafford,4,0,364320,5,Stafford County,none,,260000.0,,,0.3,True,0,none,Company-selected reference market
+I-66 Piedmont,3,0,134907,19,Fauquier County,none,,56000.0,,,27.4,False,0,none,Not a current candidate
+I-95 / I-66 Northern Virginia,8,0,2120018,1,Fairfax County,none,,254000.0,,,19.8,False,0,none,Not a current candidate

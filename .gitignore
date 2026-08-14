@@ -1,0 +1,37 @@
+# Environments / secrets
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Large raw data (raw files preserved locally; re-downloadable via pipeline)
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/MANIFEST.md
+
+# Interim artifacts are reproducible
+data/interim/*
+!data/interim/.gitkeep
+
+# Database is reproducible from pipeline
+database/*.sqlite
+database/*.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Test / build caches
+.pytest_cache/
+*.egg-info/
+
+# Local AI / agent workspace files
+.claude/
+.agents/
+
+# Miscellaneous local files
+*.log

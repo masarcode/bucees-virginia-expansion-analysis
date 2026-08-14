@@ -1,0 +1,10 @@
+component,component_label,balanced_weight,highway_weight,growth_weight,affluent_weight,underserved_weight
+market_demand,Market Demand,0.2,0.1,0.15,0.15,0.15
+growth,Growth,0.1,0.05,0.35,0.05,0.05
+purchasing_power,Purchasing Power,0.1,0.05,0.1,0.35,0.05
+highway_opportunity,Highway Opportunity,0.25,0.45,0.15,0.15,0.2
+accessibility,Accessibility,0.1,0.15,0.1,0.1,0.1
+commercial_activity,Commercial Activity,0.1,0.05,0.05,0.1,0.05
+competition,Low Competition,0.075,0.075,0.05,0.05,0.2
+overlap_risk,Low Overlap Risk,0.075,0.075,0.05,0.05,0.2
+TOTAL,Total,1.0,1.0,1.0,1.0,1.0

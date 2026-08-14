@@ -1,0 +1,7 @@
+metric,display_value,explanation
+Automated checks,130 / 130,"Data integrity and pipeline reproducibility. Covers row counts, key uniqueness, geometry validity, referential integrity, reconciliation of county sums against published state totals, and score range invariants. These verify the data and the pipeline, not the commercial accuracy of the recommendations. A further 30 checks cover the Tableau export package itself."
+Automated tests,8,"Automated code tests passing. They cover configuration integrity, database schema creation, and invariants on the published outputs such as score normalization and ranking completeness."
+Jurisdictions screened,133,Virginia county-equivalents: 95 counties and 38 independent cities. Independent cities are kept separate because they carry their own federal codes in every source.
+Strategy scenarios,5,"Weighting scenarios, each producing a complete ranking: balanced, highway, growth, affluent, underserved. These are illustrative strategic postures, not estimates of company priorities."
+Sensitivity runs,80,"One-component weight perturbations: 5 scenarios x 8 components x 2 adjustments of plus or minus 20 percent, with the remaining weights renormalized each time."
+Minimum Spearman correlation,0.9925,"Lowest rank correlation observed in sensitivity testing, with at least 8 of the baseline top 10 counties retained in every run. This shows the ranking is stable under the weight changes tested. It does not validate the choice of the eight variables, which is the larger modelling risk."
