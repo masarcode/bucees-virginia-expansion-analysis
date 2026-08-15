@@ -1,48 +1,131 @@
 # Buc-ee's Virginia Expansion Analysis
 
-Where should Buc-ee's look next in Virginia? This project screens all 133
-Virginia county-equivalents on public data, then applies an analyst layer
-that separates places which merely score well from places that could
-realistically host a store.
+**Where should Buc-ee's look next in Virginia?**
 
-Portfolio project using public data only. Not affiliated with Buc-ee's Ltd.
-County-level screening, not a parcel-level site recommendation.
+This project screens all **133 Virginia county-equivalents** using public demographic, business, highway, and geospatial data, then applies a separate feasibility screen to distinguish markets that score well from places that could realistically support a Buc-ee's-scale site.
 
-## What it found
+The main takeaway is simple: **the highest-scoring market is not automatically the best site.** Fairfax County ranks #1 on raw attractiveness, but density and site-feasibility constraints make it a poor practical fit. After screening, the strongest opportunity is the **Hampton Roads corridor**, led by Virginia Beach, Chesapeake, and Suffolk.
 
-Buc-ee's has one Virginia store open and two in the pipeline: Mount Crawford
-on I-81, open since June 2025; Stafford on I-95, locally approved in May 2026
-with no confirmed opening date; and New Kent on I-64, announced with its
-opening tied to a VDOT interchange project. Those three counties are treated
-as reference cases rather than recommendations.
+<p align="center">
+  <img width="1309" alt="Buc-ee's Virginia Expansion Analysis project preview" src="https://github.com/user-attachments/assets/3d686e52-549a-4226-854b-b1f630fd2f26" />
+</p>
 
-Among the rest:
+> Portfolio project using public data only. Not affiliated with Buc-ee's Ltd. This is a county-level market screening exercise, not a parcel-level site recommendation.
 
-- **Hampton Roads is the clearest opportunity.** Virginia Beach ranks 4th,
-  Chesapeake 10th and Suffolk 17th, together about 1.65 million residents,
-  with every eligible jurisdiction at least 58 miles from the nearest
-  existing or planned store.
-- **The Richmond corridors score well but need trade-area work.**
-  Chesterfield ranks 6th and Hanover 12th, both about 33 miles from the
-  announced New Kent store, so they carry an overlap-review flag rather than
-  a clean recommendation.
-- **I-81 Winchester and Frederick is the strongest option with no overlap
-  question**, 68.8 miles from Mount Crawford on the same corridor.
-- **Northern Virginia scores highest and is not a candidate.** Fairfax ranks
-  1st and Arlington 3rd, but both are too dense for an interchange-scale
-  site, and Prince William falls inside the overlap screen for Stafford. The
-  region is best read as the demand base that makes Stafford work.
+## Explore the project
 
-A high score is not a recommendation. The model has no way to see land cost,
-zoning, or whether a 30-acre parcel exists near an interchange.
+- **Live Streamlit app:** https://bucees-virginia-expansion.streamlit.app/
+- **Tableau Public dashboards:** https://public.tableau.com/app/profile/masar.salim/viz/Buc-eesVirginiaExpansion-MarketSiteSelectionAnalysis/ExecutiveOverview#3
+- **Executive summary:** [outputs/reports/executive_summary.md](outputs/reports/executive_summary.md)
+- **Corridor recommendations:** [outputs/reports/corridor_recommendations.md](outputs/reports/corridor_recommendations.md)
+- **Methodology:** [outputs/reports/methodology_report.md](outputs/reports/methodology_report.md)
+- **Limitations:** [outputs/reports/limitations_report.md](outputs/reports/limitations_report.md)
+- **Sources and citations:** [docs/citations.md](docs/citations.md)
 
-Read next: [executive summary](outputs/reports/executive_summary.md) ·
-[corridor recommendations](outputs/reports/corridor_recommendations.md) ·
-[methodology](outputs/reports/methodology_report.md) ·
-[limitations](outputs/reports/limitations_report.md) ·
-[citations](docs/citations.md)
+## Key findings
+
+### 1. Hampton Roads is the strongest expansion opportunity
+Virginia Beach ranks **#4 statewide**, Chesapeake **#10**, and Suffolk **#17**. Together, the corridor contains roughly **1.65 million residents**, reaches up to **195,000 vehicles per day** on its busiest interstate segment, and keeps its eligible markets at least **58 miles** from the nearest existing or planned Buc-ee's location.
+
+### 2. Fairfax is the best example of why scoring alone is not enough
+Fairfax County has the highest raw attractiveness score in Virginia at **83.7/100**, but its population density of roughly **2,927 people per square mile** makes assembling an interchange-scale site of about 30 acres difficult. That is why the project keeps model ranking and final recommendation status separate.
+
+### 3. Richmond is attractive, but overlap needs more work
+Chesterfield ranks **#6** and Hanover **#12**, but both sit only about 33 miles from the planned New Kent location. They remain strong markets, but the project flags them for trade-area review rather than treating them as clean recommendations.
+
+### 4. Winchester / Frederick is the strongest clean secondary option
+Frederick County ranks **#14** and sits about **68.8 miles** from Mount Crawford. Traffic is lower than Hampton Roads, but spacing and growth make it a strong secondary corridor without the same overlap concern.
+
+### 5. The model performs well as a screening tool
+As a face-validity check, the model was rerun without Buc-ee's location data. On that blinded run, **Stafford ranked #3 of 133**, New Kent #21, and Rockingham #25. The project also includes **130 automated validation checks**, **8 automated tests**, and **80 sensitivity runs**; the lowest Spearman rank correlation observed was **0.9925**.
+
+## Dashboard previews
+
+The same analysis is presented two ways: Streamlit for interactive exploration and Tableau for a more traditional business-intelligence view.
+
+<p align="center">
+  <img width="1153" alt="Buc-ee's Virginia Expansion Tableau dashboard preview" src="https://github.com/user-attachments/assets/8a0cb5e3-6681-47a2-a5f8-5314d9272004" />
+</p>
+
+<p align="center"><em>Executive and candidate-level views make it easy to compare markets, rankings, and recommendations.</em></p>
+
+<p align="center">
+  <img width="1145" alt="Buc-ee's Virginia Expansion methodology and model-quality dashboard preview" src="https://github.com/user-attachments/assets/cb622c4b-795e-47b3-b001-d0ac99d47b20" />
+</p>
+
+<p align="center"><em>The methodology view documents scenario weights, screening rules, and model-quality checks.</em></p>
+
+## What the model measures
+
+Each jurisdiction is scored on eight components:
+
+- Market demand
+- Growth
+- Purchasing power
+- Highway opportunity
+- Accessibility
+- Commercial activity
+- Competition
+- Overlap risk
+
+The project tests five strategic weighting scenarios:
+
+- Balanced
+- Highway-first
+- Growth-chasing
+- Affluent markets
+- Underserved markets
+
+The score is only the first layer. A separate screening layer then checks development status, overlap, interstate access, traffic-data availability, and large-site feasibility before assigning a recommendation status.
+
+## Data sources
+
+The analysis uses only public data:
+
+- U.S. Census Bureau ACS 5-year estimates, 2014-2018 and 2019-2023
+- U.S. Census Bureau County Business Patterns, 2023
+- Virginia Department of Transportation traffic-volume data
+- TIGER/Line county boundaries and road geometry
+- BLS CPI-U for inflation adjustment
+- Official Buc-ee's, state, and local-government sources for store status
+
+Raw source files are preserved locally and can be re-downloaded through the pipeline. See [docs/citations.md](docs/citations.md) and [docs/source_inventory.md](docs/source_inventory.md) for source details.
+
+## How the analysis works
+
+1. **Acquire** the public datasets and preserve the raw inputs.
+2. **Clean and standardize** GEOIDs, geometry, missing values, suppression flags, and VDOT jurisdiction records.
+3. **Load** the analysis-ready data into SQLite.
+4. **Score** all 133 jurisdictions across eight normalized components and five strategic scenarios.
+5. **Screen** high-scoring markets for overlap, interstate access, development status, and site feasibility.
+6. **Validate** the pipeline with automated checks, tests, and sensitivity analysis.
+7. **Present** the results in Streamlit, Tableau, and written reports.
+
+## Why the two-layer design matters
+
+The project intentionally separates two questions:
+
+- **Market attractiveness:** How strong is the market based on the model?
+- **Recommendation status:** Is the market actually actionable after practical constraints are considered?
+
+That distinction is the reason Fairfax can rank first without being recommended, while Virginia Beach becomes the top actionable site.
+
+## Project outputs
+
+The repository includes:
+
+- A reproducible Python data pipeline
+- SQLite analytical tables and SQL queries
+- Geospatial processing with GeoPandas
+- Five strategic weighting scenarios
+- Sensitivity testing and validation checks
+- A six-page Streamlit application
+- Four Tableau Public dashboards
+- Executive, methodology, corridor, and limitations reports
 
 ## Quick start
+
+Create a virtual environment and install the dependencies:
 
 ```bash
 python3 -m venv .venv
@@ -50,73 +133,47 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Rebuild everything from source data:
+Rebuild the project from source data:
 
 ```bash
 python -m scripts.run_pipeline
 ```
 
-Launch the dashboard, from the project root:
+Launch the Streamlit app:
 
 ```bash
 streamlit run dashboard/app.py
 ```
 
-Run the tests:
+Run the automated tests:
 
 ```bash
 python -m pytest tests/ -q
 ```
 
-No API keys or credentials are required at any stage.
+No paid APIs are required.
 
-## How it works
+## Repository structure
 
-1. **Acquire.** ACS 5-year estimates for 2014-2018 and 2019-2023, County
-   Business Patterns 2023, VDOT traffic volumes, TIGER/Line boundaries and
-   roads, BLS CPI-U for inflation adjustment, and a hand-compiled store list
-   with a citation per row. Raw files are preserved and cataloged.
-2. **Clean.** Standardize GEOIDs, validate geometry, resolve VDOT
-   jurisdictions to counties, handle missing values and suppression flags.
-3. **Load.** Build a SQLite database with analytical views.
-4. **Score.** Eight components scaled 0 to 100, combined under five
-   weighting scenarios, with a sensitivity sweep.
-5. **Screen.** Apply development status, overlap, interstate access and
-   feasibility rules to turn ranks into recommendations with stated reasons.
-6. **Present.** A Streamlit dashboard and a set of written reports.
-
-Every transformation records automated checks into a `validation_results`
-table. All 130 currently pass. Those checks cover data integrity and
-pipeline reproducibility, not the commercial accuracy of the conclusions.
-
-## The two-layer design
-
-The project keeps model output and analyst judgement visibly apart:
-
-- **Market attractiveness rank** is what the model computes.
-- **Recommendation status** is the decision after screening for existing
-  stores, trade-area overlap, interstate access and site feasibility.
-
-Every county carries both, plus the reason for its status. The disagreements
-are the interesting part, and Fairfax ranking first while not being a
-candidate is the clearest example.
-
-## Repository layout
-
-```
-config/          central YAML configuration
-data/raw/        original downloads, never modified, with MANIFEST.md
+```text
+config/          central project configuration
+data/raw/        original downloads and source manifest
 data/processed/  analysis-ready tables
-database/        SQLite database, rebuilt by the pipeline
-docs/            architecture, assumptions, data dictionary, citations, sources
-scripts/         acquisition, cleaning, analysis, orchestrator
-sql/             schema, views, business queries
-dashboard/       Streamlit app
-outputs/         figures, maps, tables, reports
-tests/           pytest suite
+database/        reproducible SQLite database
+docs/            assumptions, citations, architecture, data dictionary
+scripts/         acquisition, cleaning, analysis, and pipeline orchestration
+sql/             schema, views, and business queries
+dashboard/       Streamlit application
+outputs/         figures, maps, tables, and written reports
+tests/           automated test suite
 ```
 
 ## Tech stack
 
-Python, pandas, GeoPandas, NumPy, SQLite, SQLAlchemy, Plotly, Streamlit,
-scikit-learn, PyArrow, PyYAML, pytest.
+**Python, pandas, GeoPandas, NumPy, SQLite, SQLAlchemy, Plotly, Streamlit, Tableau, scikit-learn, PyArrow, PyYAML, pytest**
+
+## Limitations
+
+This is still a county-level screening model. It does not know whether a specific parcel is available, how much land costs, whether zoning would work, or how long the real drive time is between markets. Traffic exposure uses the highest available interstate mainline segment rather than a countywide average, and population density is used as a proxy for large-site feasibility.
+
+Those limitations are intentional and documented. The next logical step would be parcel-level site screening with drive-time trade areas, land-price data, zoning, and exit-level fuel/food competition.
