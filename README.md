@@ -10,7 +10,7 @@ County-level screening, not a parcel-level site recommendation.
 
 Live Streamlit Dashboard: https://bucees-virginia-expansion.streamlit.app/
 
-Public Tableau Dashboard: 
+Public Tableau Dashboard: https://public.tableau.com/app/profile/masar.salim/viz/Buc-eesVirginiaExpansion-MarketSiteSelectionAnalysis/ExecutiveOverview#3
 
 ## What it found
 
