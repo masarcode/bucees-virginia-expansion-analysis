@@ -1,5 +1,13 @@
 # Buc-ee's Virginia Expansion Analysis
 
+<img width="1309" height="674" alt="Screenshot 2026-08-15 at 12 10 18 AM" src="https://github.com/user-attachments/assets/3d686e52-549a-4226-854b-b1f630fd2f26" />
+
+<img width="1153" height="627" alt="Screenshot 2026-08-15 at 12 13 08 AM" src="https://github.com/user-attachments/assets/8a0cb5e3-6681-47a2-a5f8-5314d9272004" />
+
+<img width="1145" height="629" alt="Screenshot 2026-08-15 at 12 14 06 AM" src="https://github.com/user-attachments/assets/cb622c4b-795e-47b3-b001-d0ac99d47b20" />
+
+
+
 **Where should Buc-ee's look next in Virginia?**
 
 This project screens all **133 Virginia county-equivalents** using public demographic, business, highway, and geospatial data, then applies a separate feasibility screen to distinguish markets that score well from places that could realistically support a Buc-ee's-scale site.
