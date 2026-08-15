@@ -18,9 +18,6 @@ data/raw/*
 data/interim/*
 !data/interim/.gitkeep
 
-# Database is reproducible from pipeline
-database/*.sqlite
-database/*.db
 
 # Streamlit
 .streamlit/secrets.toml
