@@ -1,18 +1,14 @@
 # Buc-ee's Virginia Expansion Analysis
 
-<img width="1309" height="674" alt="Screenshot 2026-08-15 at 12 10 18 AM" src="https://github.com/user-attachments/assets/3d686e52-549a-4226-854b-b1f630fd2f26" />
-
-<img width="1153" height="627" alt="Screenshot 2026-08-15 at 12 13 08 AM" src="https://github.com/user-attachments/assets/8a0cb5e3-6681-47a2-a5f8-5314d9272004" />
-
-<img width="1145" height="629" alt="Screenshot 2026-08-15 at 12 14 06 AM" src="https://github.com/user-attachments/assets/cb622c4b-795e-47b3-b001-d0ac99d47b20" />
-
-
-
 **Where should Buc-ee's look next in Virginia?**
 
 This project screens all **133 Virginia county-equivalents** using public demographic, business, highway, and geospatial data, then applies a separate feasibility screen to distinguish markets that score well from places that could realistically support a Buc-ee's-scale site.
 
 The main takeaway is simple: **the highest-scoring market is not automatically the best site.** Fairfax County ranks #1 on raw attractiveness, but density and site-feasibility constraints make it a poor practical fit. After screening, the strongest opportunity is the **Hampton Roads corridor**, led by Virginia Beach, Chesapeake, and Suffolk.
+
+<p align="center">
+  <img width="1309" alt="Buc-ee's Virginia Expansion Analysis project preview" src="https://github.com/user-attachments/assets/3d686e52-549a-4226-854b-b1f630fd2f26" />
+</p>
 
 > Portfolio project using public data only. Not affiliated with Buc-ee's Ltd. This is a county-level market screening exercise, not a parcel-level site recommendation.
 
@@ -42,6 +38,22 @@ Frederick County ranks **#14** and sits about **68.8 miles** from Mount Crawford
 
 ### 5. The model performs well as a screening tool
 As a face-validity check, the model was rerun without Buc-ee's location data. On that blinded run, **Stafford ranked #3 of 133**, New Kent #21, and Rockingham #25. The project also includes **130 automated validation checks**, **8 automated tests**, and **80 sensitivity runs**; the lowest Spearman rank correlation observed was **0.9925**.
+
+## Dashboard previews
+
+The same analysis is presented two ways: Streamlit for interactive exploration and Tableau for a more traditional business-intelligence view.
+
+<p align="center">
+  <img width="1153" alt="Buc-ee's Virginia Expansion Tableau dashboard preview" src="https://github.com/user-attachments/assets/8a0cb5e3-6681-47a2-a5f8-5314d9272004" />
+</p>
+
+<p align="center"><em>Executive and candidate-level views make it easy to compare markets, rankings, and recommendations.</em></p>
+
+<p align="center">
+  <img width="1145" alt="Buc-ee's Virginia Expansion methodology and model-quality dashboard preview" src="https://github.com/user-attachments/assets/cb622c4b-795e-47b3-b001-d0ac99d47b20" />
+</p>
+
+<p align="center"><em>The methodology view documents scenario weights, screening rules, and model-quality checks.</em></p>
 
 ## What the model measures
 
