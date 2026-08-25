@@ -57,7 +57,7 @@ fig.update_layout(barmode="group", bargap=0.25, bargroupgap=0.08,
                   title="Component scores, 0 to 100 within Virginia",
                   height=460, yaxis=dict(range=[0, 105]),
                   legend=dict(orientation="h", y=1.08, x=0))
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 rows = {
     "Population, 2019-2023": ("total_population", "{:,.0f}"),
@@ -78,7 +78,7 @@ for name in order:
     table[r["short_name"]] = [
         "not available" if pd.isna(r[col]) else fmt.format(r[col])
         for col, fmt in rows.values()]
-st.dataframe(table, hide_index=True, use_container_width=True)
+st.dataframe(table, hide_index=True, width="stretch")
 
 st.subheader("Why each is or is not a candidate")
 for name in order:

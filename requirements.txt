@@ -16,7 +16,7 @@ SQLAlchemy>=2.0
 
 # Visualization / dashboard
 plotly>=5.18
-streamlit>=1.29
+streamlit>=1.49,<2.0
 
 # Modeling (used only where appropriate)
 scikit-learn>=1.3

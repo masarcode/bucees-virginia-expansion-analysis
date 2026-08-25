@@ -129,7 +129,7 @@ with map_col:
         height=520, margin=dict(l=0, r=0, t=50, b=0),
         legend=dict(orientation="h", y=0.0, x=0.5, xanchor="center",
                     title="Virginia sites"))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
     st.caption(
         "Shading is the model score. Markers are the three Virginia sites. "
         "Out-of-state stores stay in the distance calculations but are not "

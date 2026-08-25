@@ -58,7 +58,7 @@ The rescaling is monotonic, so no county moves within a component.
                 "illustrative strategic postures, not estimates of company "
                 "priorities.")
     st.dataframe(pd.DataFrame(cfg["scoring"]["scenarios"]).round(3),
-                 use_container_width=True)
+                 width="stretch")
     st.markdown("""
 **Sensitivity.** Across 80 one-component weight perturbations of plus or
 minus 20%, the Spearman rank correlation with the baseline never fell below
@@ -148,7 +148,7 @@ with tab_valid:
     bad = v[v["status"] != "pass"]
     if len(bad):
         st.warning("Checks not passing:")
-        st.dataframe(bad, hide_index=True, use_container_width=True)
-    st.dataframe(v, hide_index=True, use_container_width=True, height=460)
+        st.dataframe(bad, hide_index=True, width="stretch")
+    st.dataframe(v, hide_index=True, width="stretch", height=460)
 
 page_footer()
