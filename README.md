@@ -1,5 +1,7 @@
 # Buc-ee's Virginia Expansion Analysis
 
+[![Tests](https://github.com/masarcode/bucees-virginia-expansion-analysis/actions/workflows/tests.yml/badge.svg)](https://github.com/masarcode/bucees-virginia-expansion-analysis/actions/workflows/tests.yml)
+
 **Where should Buc-ee's look next in Virginia?**
 
 This project screens all **133 Virginia county-equivalents** using public demographic, business, highway, and geospatial data, then applies a separate feasibility screen to distinguish markets that score well from places that could realistically support a Buc-ee's-scale site.
@@ -12,15 +14,25 @@ The main takeaway is simple: **the highest-scoring market is not automatically t
 
 > Portfolio project using public data only. Not affiliated with Buc-ee's Ltd. This is a county-level market screening exercise, not a parcel-level site recommendation.
 
+## Portfolio snapshot
+
+| Question | Evidence |
+| --- | --- |
+| What was evaluated? | All 133 Virginia county-equivalents across eight market and site-screening components |
+| What was recommended? | Hampton Roads as the strongest actionable corridor after feasibility and overlap screening |
+| How was it validated? | 130 automated checks, 8 tests, 5 strategy scenarios, and 80 sensitivity runs |
+| What was delivered? | Reproducible Python/SQL pipeline, geospatial model, Streamlit application, four Tableau dashboards, and executive reports |
+
 ## Explore the project
 
-- **Live Streamlit app:** https://bucees-virginia-expansion.streamlit.app/
+- **Streamlit application source:** [dashboard/](dashboard/)
 - **Tableau Public dashboards:** https://public.tableau.com/app/profile/masar.salim/viz/Buc-eesVirginiaExpansion-MarketSiteSelectionAnalysis/ExecutiveOverview#3
 - **Executive summary:** [outputs/reports/executive_summary.md](outputs/reports/executive_summary.md)
 - **Corridor recommendations:** [outputs/reports/corridor_recommendations.md](outputs/reports/corridor_recommendations.md)
 - **Methodology:** [outputs/reports/methodology_report.md](outputs/reports/methodology_report.md)
 - **Limitations:** [outputs/reports/limitations_report.md](outputs/reports/limitations_report.md)
 - **Sources and citations:** [docs/citations.md](docs/citations.md)
+- **Development notes:** [docs/development-notes.md](docs/development-notes.md)
 
 ## Key findings
 
