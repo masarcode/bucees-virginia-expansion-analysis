@@ -44,7 +44,7 @@ with left:
                       xaxis=dict(range=[0, 112], title="score, 0 to 100"),
                       yaxis=dict(autorange="reversed"), showlegend=False,
                       height=430, margin=dict(l=10))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
     st.caption("Scores are relative to other Virginia counties, not absolute.")
 
     # Percentile rather than raw rank, so a longer bar always means better.
@@ -63,7 +63,7 @@ with left:
         title="Standing by scenario, longer is stronger",
         xaxis=dict(range=[0, 118], title="percentile within Virginia"),
         showlegend=False, height=330, margin=dict(l=10))
-    st.plotly_chart(fig2, use_container_width=True)
+    st.plotly_chart(fig2, width="stretch")
 
 with right:
     st.subheader("Profile")

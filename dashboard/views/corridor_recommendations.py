@@ -45,7 +45,7 @@ for tier in ["Candidate corridor", "Watchlist corridor",
     st.subheader(tier)
     st.caption(TIER_NOTE[tier])
     show = sub[list(fmt)].rename(columns=fmt)
-    st.dataframe(show, hide_index=True, use_container_width=True,
+    st.dataframe(show, hide_index=True, width="stretch",
                  column_config={
                      "Best rank": cols.NumberColumn(format="%d"),
                      "Population": cols.NumberColumn(format="localized"),
@@ -96,7 +96,7 @@ with st.expander("Full county-level screening result"):
         "attractiveness_rank": "Rank", "county_name": "County",
         "corridor": "Corridor", "weighted_score": "Score",
         "recommendation_status": "Status", "reason": "Reason"})
-    st.dataframe(show, hide_index=True, use_container_width=True, height=420,
+    st.dataframe(show, hide_index=True, width="stretch", height=420,
                  column_config={"Score": st.column_config.NumberColumn(format="%.1f")})
 
 page_footer()

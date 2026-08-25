@@ -68,3 +68,13 @@ def test_database_row_counts():
                                 ("scenario_rankings", 665)]:
             n = conn.execute(text(f"SELECT COUNT(*) FROM {table}")).scalar()
             assert n == expected, f"{table}: {n} != {expected}"
+
+
+def test_dashboard_uses_committed_district_map():
+    """Prevent deployments from depending on gitignored HTML map exports."""
+    page = PROJECT_ROOT / "dashboard" / "views" / "vdot_district_screening.py"
+    source = page.read_text(encoding="utf-8")
+
+    assert "outputs/maps/map_regions.html" not in source
+    assert "outputs/maps/map_regions.png" in source
+    assert (PROJECT_ROOT / "outputs" / "maps" / "map_regions.png").is_file()
